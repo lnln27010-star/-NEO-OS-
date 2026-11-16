@@ -1,0 +1,71 @@
+.appearance-switch { height:30px; display:flex; align-items:center; gap:2px; padding:3px; border:1px solid #303942; border-radius:6px; background:#11171e; flex-shrink:0; }
+.scene-module-loading { min-height:0; display:grid;place-items:center;color:#839baa;background:#0b131c;font-size:12px;letter-spacing:.06em; }
+.appearance-switch button { display:flex; align-items:center; justify-content:center; gap:5px; min-width:58px; height:22px; border:0; border-radius:3px; background:transparent; color:#7f919f; cursor:pointer; font-size:10px; }
+.appearance-switch button[aria-pressed=true] { background:#2c373e; color:#d7eae4; }
+.appearance-switch select { font-size:9px; color:#a9bbc8; background:#121b24; border:0; border-left:1px solid #37434e; padding:3px 5px; max-width:96px; cursor:pointer; }
+.is-energy-workspace[data-theme=light] .header-bar,.is-bim-workspace[data-theme=light] .header-bar { background:#edf1ef; color:#20353e; border-color:#cbd6d1; }
+.app-shell[data-theme=light] .appearance-switch { background:#e7edeb; border-color:#cad5d1; }
+.app-shell[data-theme=light] .appearance-switch button { color:#6e827b; }
+.app-shell[data-theme=light] .appearance-switch button[aria-pressed=true] { background:#fbfdfc; color:#2c675e; }
+.is-energy-workspace[data-theme=light] .breadcrumb strong,.is-bim-workspace[data-theme=light] .breadcrumb strong { color:#20353e; }
+.is-energy-workspace[data-theme=light] .command-bar,.is-bim-workspace[data-theme=light] .command-bar { background:#e7edeb; border-color:#cbd6d1; }
+.is-energy-workspace[data-theme=light] .app-nav,.is-bim-workspace[data-theme=light] .app-nav { background:#e2e9e6; border-color:#cbd6d1; }
+.is-energy-workspace[data-theme=light] .segmented-control,.is-bim-workspace[data-theme=light] .segmented-control { background:#e0e8e4; border-color:#cbd6d1; }
+.is-energy-workspace[data-theme=light] .segmented-control button.is-selected,.is-bim-workspace[data-theme=light] .segmented-control button.is-selected { background:#f9fcfa; color:#29463e; }
+.is-bim-workspace[data-theme=dark] { --line:#293440; background:#0a1017; }
+.is-bim-workspace[data-theme=dark] .header-bar { background:#10161e; }
+.is-bim-workspace[data-theme=dark] .app-nav { background:#0e151d; }
+.is-bim-workspace[data-theme=dark] .command-bar { background:#131c25; }
+.is-bim-workspace[data-theme=dark] .bim-app-status { background:#0c131b; color:#7d91a2; }
+.campus-atlas,.campus-bim { --site-panel:rgba(16,22,30,.94); --site-line:rgba(147,176,197,.2); --site-text:#e2ebf2; --site-muted:#8a9fac; --site-accent:#aed5c4; }
+.campus-atlas.is-light,.campus-bim.is-light { --site-panel:rgba(241,246,243,.96); --site-line:#c6d5ce; --site-text:#263f43; --site-muted:#648087; --site-accent:#417b69; }
+.campus-atlas { background:#0b1118; }
+.campus-atlas .amap-campus-map { position:absolute;inset:0;width:100%;height:100%; }
+.campus-atlas-vignette { position:absolute; inset:0; pointer-events:none; z-index:3; background:linear-gradient(180deg,rgba(8,13,19,.78),rgba(8,13,19,.22) 8%,transparent 22%),linear-gradient(90deg,rgba(8,13,19,.36),transparent 28%,transparent 74%,rgba(8,13,19,.12)); }
+.campus-atlas.is-light .campus-atlas-vignette { background:none; }
+.campus-atlas .amap-campus-head { top:24px; left:26px; color:var(--site-text); background:var(--site-panel); border:1px solid var(--site-line); box-shadow:0 10px 32px #0002; border-radius:8px; padding:17px 19px; backdrop-filter:blur(18px); max-width:390px; }
+.campus-atlas .amap-campus-head>span { font:9px Consolas,monospace; letter-spacing:.13em; color:var(--site-muted); margin-bottom:7px; display:block; }
+.campus-atlas .amap-campus-head i { font-style:normal; font-size:8px; opacity:.5; margin-left:17px; }
+.campus-atlas .amap-campus-head strong { font-size:23px; font-weight:400; letter-spacing:.025em; color:var(--site-text); }
+.campus-atlas .amap-campus-head strong small { display:block; font-size:11px; margin:6px 0 11px; color:var(--site-muted); letter-spacing:.09em; }
+.campus-atlas .amap-campus-head em { color:var(--site-muted); font-size:9px; line-height:1.5; }
+.campus-atlas .amap-settings-button,.campus-atlas .amap-reset-site,.campus-atlas .map-provider-link { color:var(--site-text); background:var(--site-panel); border:1px solid var(--site-line); border-radius:6px; padding:9px 12px; font-size:10px; box-shadow:0 5px 20px #0001; backdrop-filter:blur(14px); }
+.campus-atlas .amap-settings-button:hover,.campus-atlas .amap-reset-site:hover,.campus-atlas .map-provider-link:hover { color:var(--site-accent); border-color:#779b96; }
+.campus-atlas .amap-campus-note { background:var(--site-panel); color:var(--site-muted); border-color:var(--site-line); padding:12px 15px; border-radius:6px; font-size:10px; backdrop-filter:blur(14px); }
+.campus-atlas .amap-settings-panel { background:var(--site-panel); color:var(--site-text); border-color:var(--site-line); border-radius:8px; top:215px; max-height:calc(100% - 290px); overflow:auto; }
+.campus-atlas .amap-settings-panel p,.campus-atlas .amap-settings-panel label { color:var(--site-muted); }
+.campus-atlas .amap-settings-panel input { background:#1b2731; color:#e0ecf2; border-color:#3b505e; }
+.campus-atlas .amap-settings-actions button { background:#253f3c; color:#d7ebe1; border-color:#567a70; }
+.campus-atlas .amap-northbridge-label { border-color:var(--site-line); border-radius:6px; color:var(--site-text); background:var(--site-panel); padding:8px 11px; font-size:11px; box-shadow:0 4px 20px #0003; }
+.campus-atlas .amap-northbridge-label small { color:var(--site-muted); font-size:9px; }
+.campus-atlas .amap-marker-label { border:0; background:transparent; padding:0; }
+.campus-atlas.is-dark .amap-controls { filter:invert(.86) hue-rotate(170deg); }
+.campus-bim.is-dark { background:#0b1119; }
+.campus-bim .bim-title,.campus-bim .bim-config,.campus-bim .bim-tree,.campus-bim .bim-tools,.campus-bim .bim-selection,.campus-bim .bim-cameras { background:var(--site-panel); color:var(--site-text); border:1px solid var(--site-line); border-radius:8px; backdrop-filter:blur(16px); box-shadow:0 10px 32px #0002; }
+.campus-bim .bim-title { padding:16px 19px; }
+.campus-bim .bim-title strong { font-size:19px; font-weight:400; letter-spacing:.03em; }
+.campus-bim .bim-title span { color:var(--site-muted); font-size:10px; }
+.campus-bim .bim-title i { background:var(--site-accent); }
+.campus-bim .bim-layer-controls,.campus-bim .bim-tabs,.campus-bim .bim-entry-actions,.campus-bim .bim-type-row { border-color:var(--site-line); }
+.campus-bim .bim-config header strong,.campus-bim .bim-tree header strong { font-size:12px; letter-spacing:.03em; }
+.campus-bim .bim-field,.campus-bim .bim-provenance,.campus-bim .bim-model-facts,.campus-bim .bim-entry-actions p { color:var(--site-muted); font-size:10px; }
+.campus-bim .bim-field select { background:rgba(84,113,130,.1); color:var(--site-text); border-color:var(--site-line); border-radius:5px; font-size:11px; }
+.campus-bim .bim-field select option { background:#17212b; color:#d5e5ef; }
+.campus-bim .bim-layer-controls label { color:var(--site-text); font-size:11px; }
+.campus-bim .bim-layer-controls input { accent-color:var(--site-accent); }
+.campus-bim .bim-cameras button { font-size:11px; padding:9px 12px; color:var(--site-muted); }
+.campus-bim .bim-cameras button[aria-pressed=true],.campus-bim .bim-tabs button[aria-pressed=true] { color:var(--site-text); background:#6cb4a124; box-shadow:inset 0 0 0 1px #7ab19f55; }
+.campus-bim .bim-import { background:#75a89314; color:var(--site-text); border-color:#648e8055; border-radius:5px; font-size:11px; }
+.campus-bim .bim-caption { color:var(--site-muted); font-size:10px; text-shadow:0 1px 6px #000; }
+.campus-bim.is-light .bim-caption { text-shadow:0 1px 5px #fff; }
+.campus-bim.is-light .bim-model-facts strong { color:var(--site-text); }
+.campus-bim.is-light .bim-field select option { background:#edf4ef; color:#28483e; }
+@media(max-width:1050px) { .appearance-switch button { min-width:29px; } .appearance-switch button span { display:none; } .campus-atlas .amap-campus-head { max-width:320px; } }
+
+.scene-module-loading { position:absolute;inset:0;min-height:100%;padding:32px;text-align:center;background:radial-gradient(ellipse at 50% 45%,#182d3d,#0b131c 70%);color:#aac3d4;z-index:20;box-sizing:border-box; }
+.scene-module-loading button { padding:10px 20px;border:1px solid #547083;border-radius:6px;background:#183244;color:#d7e8f4;cursor:pointer; }
+.scene-module-loading details { margin-top:20px;max-width:520px;overflow-wrap:anywhere;font-size:11px; }
+
+.is-energy-workspace .workspace{grid-template-rows:44px minmax(0,1fr)}
+.app-shell[data-theme=light] .workspace,.app-shell[data-theme=light] .viewport-shell{background:#e7eef1}
+.app-shell[data-theme=light] .scene-module-loading{background:#e7eef1;color:#5f7783}

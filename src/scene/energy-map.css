@@ -1,0 +1,185 @@
+.energy-world {
+  --energy-surface: rgba(247,250,248,.95);
+  --energy-border: rgba(119,147,134,.32);
+  --energy-text: #20353e;
+  --energy-muted: #6a8187;
+  --energy-soft: rgba(28,55,45,.05);
+  --energy-accent: #3c9587;
+  color: var(--energy-text);
+}
+/* MapLibre CSS is loaded lazily: its .maplibregl-map rule must not turn this
+   absolute, full-height canvas host into a zero-height relative container. */
+.energy-world .openinfra-map { position:absolute; inset:0; width:100%; height:100%; }
+.is-energy-workspace .header-bar { background:#101317; border-color:#252a31; box-shadow:none; }
+.is-energy-workspace .app-nav { background:#0e1115; border-color:#252a31; }
+.is-energy-workspace .command-bar { background:#13171c; border-color:#292f36; }
+.is-energy-workspace .segmented-control { background:#0d1014; border-color:#30363e; }
+.is-energy-workspace .segmented-control button.is-selected { background:#2b343b; box-shadow:none; color:#ecf1f4; }
+.is-energy-workspace .nav-item.is-active { color:#a5d8c9; background:#7dd6b61a; }
+.is-energy-workspace .demo-badge { color:#8eaba5; background:#76ad9e0a; border-color:#53675d; }
+.energy-world.is-dark {
+  --energy-surface: rgba(16,19,23,.86);
+  --energy-border: rgba(173,192,210,.15);
+  --energy-text: #e5eaf0;
+  --energy-muted: #83909d;
+  --energy-soft: rgba(175,197,213,.04);
+  --energy-accent: #8ed8c5;
+  background: #060709;
+}
+.energy-world button { cursor:pointer; }
+.energy-vignette { position:absolute; inset:0; pointer-events:none; z-index:1; }
+.is-dark .energy-vignette { background:linear-gradient(90deg,rgba(6,7,9,.35),transparent 28%,transparent 72%,rgba(6,7,9,.18)); }
+.energy-heading { position:absolute; z-index:2; top:32px; left:34px; pointer-events:none; }
+.energy-eyebrow { display:flex; gap:8px; align-items:center; font:500 10px/1.5 'Cascadia Code',Consolas,monospace; letter-spacing:.17em; color:var(--energy-muted); }
+.energy-eyebrow>span { width:6px; height:6px; border-radius:50%; background:var(--energy-accent); box-shadow:0 0 8px #6cc7b733; }
+.energy-eyebrow i { font-style:normal; font-size:9px; letter-spacing:.02em; margin-left:16px; opacity:.5; }
+.energy-heading h1 { margin:17px 0 0; font-size:31px; font-weight:500; letter-spacing:.12em; color:var(--energy-text); line-height:1.25; }
+.energy-heading h1 span { display:block; font-size:12px; font-weight:400; letter-spacing:.16em; margin-top:12px; color:var(--energy-muted); }
+.energy-heading p { margin:9px 0; font-size:10px; letter-spacing:.035em; color:var(--energy-muted); opacity:.65; }
+.energy-data-tag { margin-top:25px; display:flex; gap:7px; align-items:center; font:9px/1.5 Consolas,monospace; letter-spacing:.05em; color:var(--energy-muted); }
+.energy-data-tag>span { width:4px; height:4px; border-radius:50%; background:var(--energy-accent); }
+.energy-data-tag em { display:block; margin-left:9px; font-size:8px; font-style:normal; opacity:.5; }
+.energy-top-controls { position:absolute; top:28px; right:24px; z-index:9; display:flex; align-items:center; gap:10px; }
+.energy-region,.energy-view-switch,.energy-square { border:1px solid var(--energy-border); color:var(--energy-text); background:var(--energy-surface); backdrop-filter:blur(18px); box-shadow:0 4px 18px #00000012; border-radius:7px; }
+.energy-region { display:flex; height:36px; align-items:center; gap:8px; padding:0 11px; color:var(--energy-muted); }
+.energy-region select { border:0; padding:0; background:transparent; color:var(--energy-text); font-size:11px; width:92px; appearance:none; cursor:pointer; outline:0; }
+.energy-world select option { background:var(--energy-surface); color:var(--energy-text); }
+.is-dark select option { background:#14191e; color:#e5eaf0; }
+.energy-view-switch { display:flex; gap:2px; padding:3px; height:36px; }
+.energy-view-switch button { display:flex; align-items:center; justify-content:center; gap:6px; min-width:62px; border:0; border-radius:4px; background:transparent; color:var(--energy-muted); font-size:11px; }
+.energy-view-switch button.is-active { background:var(--energy-soft); color:var(--energy-text); box-shadow:inset 0 0 0 1px var(--energy-border); }
+.is-dark .energy-view-switch button.is-active { background:#2d363d; color:#fff; }
+.energy-square { width:36px; height:36px; display:flex; align-items:center; justify-content:center; flex-shrink:0; padding:0; }
+.energy-square:hover,.energy-view-switch button:hover { color:var(--energy-accent); background:var(--energy-soft); }
+.energy-square.is-active { color:var(--energy-accent); border-color:var(--energy-accent); }
+.energy-world .energy-layers { top:84px; right:24px; width:238px; min-width:0; padding:0; gap:0; color:var(--energy-text); border:1px solid var(--energy-border); border-radius:9px; background:var(--energy-surface); backdrop-filter:blur(20px); box-shadow:0 8px 24px #00000016; max-height:calc(100% - 200px); overflow:auto; scrollbar-width:thin; }
+.energy-layers header { height:45px; padding:0 16px; border-bottom:1px solid var(--energy-border); }
+.energy-layers header>div { display:flex; align-items:center; gap:8px; }
+.energy-layers header svg { color:var(--energy-muted); }
+.energy-layers header strong { font-size:12px; font-weight:500; color:var(--energy-text); }
+.energy-layers header span { font:8px/1 Consolas,monospace; color:var(--energy-muted); letter-spacing:.06em; margin-left:15px; }
+.energy-layers header button { display:flex; padding:3px; color:var(--energy-muted); }
+.energy-layer-list { padding:8px 16px; display:grid; }
+.energy-world .energy-layers label { display:flex; align-items:center; justify-content:space-between; gap:12px; min-height:45px; color:var(--energy-text); font-size:11px; }
+.energy-layers label>span { display:flex; flex-direction:column; gap:3px; }
+.energy-layers label small { font:8px/1.3 'Segoe UI',sans-serif; color:var(--energy-muted); letter-spacing:.025em; }
+.energy-layers input { appearance:none; width:26px; height:14px; border:1px solid var(--energy-border); background:var(--energy-soft); border-radius:8px; position:relative; cursor:pointer; flex-shrink:0; margin:0; }
+.energy-layers input::after { content:''; width:8px; height:8px; position:absolute; top:2px; left:3px; border-radius:50%; background:var(--energy-muted); transition:transform .15s; }
+.energy-layers input:checked { border-color:#63968c; background:#4d8b7d26; }
+.energy-layers input:checked::after { transform:translateX(10px); background:var(--energy-accent); }
+.energy-world .energy-column-toggle { margin:0 16px; padding-bottom:8px; }
+.energy-world .energy-space-style { margin:0 16px; padding-bottom:12px; font-size:10px; }
+.energy-space-style select { max-width:133px; color:var(--energy-text); background:var(--energy-soft); border:1px solid var(--energy-border); border-radius:4px; padding:5px 6px; font-size:9px; }
+.energy-voltage-legend,.energy-generation-legend { display:grid; grid-template-columns:1fr 1fr; gap:9px 12px; margin:0 16px; padding:14px 0; border-top:1px solid var(--energy-border); }
+.energy-voltage-legend>b,.energy-generation-legend>b { grid-column:1/-1; margin-bottom:3px; font-size:10px; font-weight:400; color:var(--energy-muted); }
+.energy-voltage-legend>b>span { float:right; font:9px Consolas,monospace; opacity:.5; }
+.energy-voltage-legend>span,.energy-generation-legend>span { display:flex; gap:9px; align-items:center; color:var(--energy-muted); font:9px Consolas,'Microsoft YaHei',monospace; }
+.energy-voltage-legend i { display:block; width:17px; height:2px; border-radius:1px; }
+.is-dark .energy-voltage-legend i { box-shadow:0 0 5px #ffffff16; }
+.energy-generation-legend i { width:5px; height:5px; border-radius:50%; }
+.energy-layers footer { display:flex; align-items:center; gap:6px; border-top:1px solid var(--energy-border); padding:12px 16px; font-size:9px; color:var(--energy-muted); }
+.energy-layers footer>span { width:4px; height:4px; border-radius:50%; background:var(--energy-accent); }
+.energy-world .energy-layers.is-collapsed { width:auto; padding:0; }
+.energy-layers.is-collapsed header { border:0; gap:15px; }
+.energy-world .energy-layers.is-collapsed strong { display:block; }
+.energy-layers.is-collapsed header span { display:none; }
+.energy-camera-controls { position:absolute; right:24px; bottom:78px; z-index:7; display:flex; gap:6px; }
+.energy-compass { position:relative; }
+.energy-compass>svg { opacity:.5; }
+.energy-compass small { position:absolute; top:4px; font:7px Consolas,monospace; }
+.energy-coordinate { position:absolute; left:34px; bottom:47px; display:flex; align-items:center; gap:14px; z-index:2; color:var(--energy-muted); font:9px/1.5 Consolas,monospace; pointer-events:none; }
+.energy-coordinate>span { font-size:8px; letter-spacing:.08em; padding:3px 5px; border:1px solid var(--energy-border); border-radius:3px; }
+.energy-coordinate b { font-weight:400; }
+.energy-coordinate i { font-style:normal; opacity:.4; margin:0 6px; }
+.energy-coordinate em { font-style:normal; opacity:.5; font-size:8px; }
+.energy-interaction-note { position:absolute; left:34px; bottom:24px; z-index:2; color:var(--energy-muted); font-size:9px; display:flex; align-items:center; gap:10px; opacity:.7; pointer-events:none; }
+.energy-interaction-note i { width:2px; height:2px; background:var(--energy-muted); border-radius:50%; }
+.energy-loading { position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); z-index:2; display:flex; flex-direction:column; gap:14px; align-items:center; color:var(--energy-muted); padding:24px; border-radius:9px; background:var(--energy-surface); }
+.energy-loading span { font-size:12px; letter-spacing:.06em; }
+.energy-loading small { font:8px Consolas,monospace; letter-spacing:.2em; opacity:.5; }
+.energy-error { position:absolute; top:16px; left:50%; transform:translateX(-50%); padding:7px 10px; font-size:10px; border:1px solid var(--energy-border); background:var(--energy-surface); color:var(--energy-muted); border-radius:5px; z-index:10; display:flex; gap:8px; }
+.energy-error button { padding:0; border:0; background:transparent; display:flex; }
+.energy-price-ranking { position:absolute; left:34px; top:250px; width:240px; z-index:4; background:var(--energy-surface); border:1px solid var(--energy-border); backdrop-filter:blur(18px); padding:16px; border-radius:9px; }
+.energy-price-ranking header { display:flex; justify-content:space-between; align-items:center; font-size:10px; color:var(--energy-text); }
+.energy-price-ranking header small { color:var(--energy-muted); font:9px Consolas,monospace; }
+.energy-ranking-title { display:flex; gap:12px; align-items:center; padding:18px 0; }
+.energy-ranking-title strong { font:300 34px/1 'Segoe UI',sans-serif; color:var(--energy-text); }
+.energy-ranking-title>span { font-size:10px; color:var(--energy-muted); display:grid; gap:5px; }
+.energy-ranking-title small { font-size:8px; opacity:.7; }
+.energy-price-ranking>button { display:flex; align-items:center; gap:8px; width:100%; padding:10px 0; border:0; border-top:1px solid var(--energy-border); background:transparent; font-size:10px; }
+.energy-price-ranking>button:hover { color:var(--energy-accent); }
+.energy-price-ranking>button em { font:8px Consolas,monospace; color:var(--energy-muted); opacity:.6; }
+.energy-price-ranking>button span { flex:1; text-align:left; }
+.energy-price-ranking>button b { font:10px Consolas,monospace; font-weight:400; color:var(--energy-accent); }
+.energy-price-ranking>button svg { color:var(--energy-muted); }
+.energy-price-ranking>label { display:flex; justify-content:space-between; align-items:center; margin-top:13px; color:var(--energy-muted); font-size:9px; }
+.energy-price-ranking select { color:var(--energy-text); background:var(--energy-soft); border:1px solid var(--energy-border); border-radius:4px; padding:5px; font-size:10px; max-width:140px; }
+.energy-world .analysis-dock-wrapper { bottom:24px; max-width:calc(100% - 610px); min-width:375px; }
+.energy-world .analysis-dock-bar { border:1px solid var(--energy-border); border-radius:9px; padding:4px; gap:4px; background:var(--energy-surface); box-shadow:0 8px 32px #00000020; }
+.energy-world .dock-tab { border:0; padding:12px 17px; border-radius:5px; font-size:11px; color:var(--energy-muted); font-weight:400; }
+.energy-world .dock-tab:hover { color:var(--energy-text); background:var(--energy-soft); }
+.energy-world .dock-tab.is-active { color:var(--energy-text); background:var(--energy-soft); }
+.energy-world .dock-tab-icon { width:5px; height:5px; box-shadow:none; }
+.energy-world .analysis-dock-content { color:var(--energy-text); background:var(--energy-surface); border:1px solid var(--energy-border); border-radius:9px; margin-bottom:10px; padding:16px 18px; width:100%; gap:12px; justify-content:space-between; box-shadow:0 8px 30px #00000020; }
+.energy-world .analysis-dock-wrapper:has(.analysis-dock-content) .analysis-dock-bar { border-radius:9px; }
+.energy-world .dock-intro-title,.energy-world .dock-toggle-label { color:var(--energy-text); font-size:11px; font-weight:400; }
+.energy-world .dock-intro-desc,.energy-world .dock-field-label,.energy-world .dock-hint,.energy-world .dock-legend span,.energy-world .solar-legend-labels span { color:var(--energy-muted); font-size:9px; }
+.energy-world .dock-intro-desc { white-space:normal; }
+.energy-world .dock-selectors { flex-wrap:wrap; gap:10px; }
+.energy-world .dock-selectors select { background:var(--energy-soft); border-color:var(--energy-border); color:var(--energy-text); border-radius:4px; height:30px; }
+.is-dark .dock-selectors select option { background:#151a20; color:#e5eaf0; }
+.is-dark .dock-switch { background:#293138; border-color:#434e57; }
+.is-dark .dock-switch.is-on { background:#8bd1bd22; border-color:#6b9c8f; }
+.is-dark .dock-switch.is-on::after { background:#a2d8c9; box-shadow:none; }
+.energy-world .price-detail-panel,.energy-world .spot-detail-panel,.energy-world .oim-detail { background:var(--energy-surface); border:1px solid var(--energy-border); color:var(--energy-text); border-radius:9px; box-shadow:0 12px 40px #00000030; backdrop-filter:blur(20px); }
+.energy-world .price-detail-panel { left:34px; bottom:87px; width:260px; }
+.energy-world .oim-detail { left:34px; top:250px; width:270px; }
+.energy-world .spot-detail-panel { bottom:160px; width:540px; }
+.energy-world .price-detail-panel header,.energy-world .spot-detail-panel header { background:var(--energy-soft); border-color:var(--energy-border); padding:12px 14px; }
+.energy-world .price-detail-panel header strong,.energy-world .spot-detail-panel header strong,.energy-world .oim-detail header strong { color:var(--energy-text); font-weight:500; }
+.energy-world .price-detail-panel span,.energy-world .spot-detail-type,.energy-world .spot-chart-summary span,.energy-world .oim-detail span { color:var(--energy-muted); }
+.energy-world .price-detail-panel b,.energy-world .spot-chart-summary b,.energy-world .oim-detail b { color:var(--energy-text); font-weight:500; }
+.energy-world .price-detail-panel small,.energy-world .spot-detail-panel small,.energy-world .oim-detail small { color:var(--energy-muted); font-size:9px; }
+.energy-world .price-detail-panel button,.energy-world .spot-detail-panel button,.energy-world .oim-detail button { color:var(--energy-muted); }
+.energy-world .price-detail-body>div,.energy-world .oim-detail>div { border-color:var(--energy-border); }
+.is-dark .spot-yaxis-label,.is-dark .spot-chart-axis { color:var(--energy-muted); }
+.is-dark .spot-chart-bars { border-color:var(--energy-border); }
+.is-dark .spot-bar { background:linear-gradient(180deg,#83bbd2,#509b8d); }
+.is-dark .maplibregl-ctrl-attrib { background:rgba(9,12,15,.8); color:#667581; font-size:8px; }
+.is-dark .maplibregl-ctrl-attrib a { color:#667581; }
+.energy-world.is-focused .energy-heading,.energy-world.is-focused .energy-layers,.energy-world.is-focused .analysis-dock-wrapper,.energy-world.is-focused .energy-price-ranking { display:none; }
+.energy-world.is-focused .price-detail-panel,.energy-world.is-focused .spot-detail-panel,.energy-world.is-focused .oim-detail { display:none; }
+.energy-world:fullscreen { width:100vw; height:100vh; }
+@media(max-height:760px) {
+  .energy-world .energy-layers { max-height:calc(100% - 230px); }
+  .energy-layer-list { padding:5px 16px; }
+  .energy-world .energy-layers label { min-height:36px; }
+  .energy-heading { top:27px; }
+  .energy-heading h1 { font-size:27px; }
+  .energy-generation-legend { padding:11px 0; gap:7px; }
+  .energy-price-ranking { top:220px; }
+  .energy-price-ranking>button { padding:7px 0; }
+}
+@media(max-width:1150px) {
+  .energy-heading { left:22px; }
+  .energy-heading h1 { font-size:25px; }
+  .energy-world .energy-layers { width:206px; right:18px; }
+  .energy-top-controls { right:18px; }
+  .energy-region { display:none; }
+  .energy-coordinate,.energy-interaction-note { left:22px; }
+  .energy-coordinate { gap:8px; }
+  .energy-coordinate em { display:none; }
+  .energy-world .analysis-dock-wrapper { min-width:340px; max-width:calc(100% - 465px); }
+  .energy-world .dock-tab { padding:11px 12px; }
+  .energy-price-ranking { left:22px; width:204px; }
+  .energy-world .price-detail-panel { left:22px; }
+}
+@media(max-width:850px) {
+  .energy-world .energy-layers { width:180px; }
+  .energy-layers header { padding:0 12px; }
+  .energy-layers header span,.energy-layers label small { display:none; }
+  .energy-layer-list { padding:5px 12px; }
+  .energy-heading p,.energy-data-tag { display:none; }
+  .energy-world .analysis-dock-wrapper { bottom:22px; min-width:320px; max-width:calc(100% - 230px); left:22px; transform:none; }
+  .energy-coordinate,.energy-interaction-note { display:none; }
+}

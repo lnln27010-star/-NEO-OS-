@@ -1,0 +1,779 @@
+#usda 1.0
+(
+    defaultPrim = "_2192025_Generic_CDU_V1"
+)
+
+over "_2192025_Generic_CDU_V1"
+{
+    custom float aif:core:accessibilityRequirement = 900 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Service clearance in mm [AIF-MANAGED]"
+    )
+    custom string aif:core:assetClass = "CDU" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Class of AI Factory Equipment [AIF-MANAGED]"
+    )
+    custom string aif:core:assetCreationDate = "2026-01-29" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Creation Date of Revision of Asset ISO 8601 format (YYYY-MM-DD) [AIF-MANAGED]"
+    )
+    custom string aif:core:assetDescription = "Generic CDU - Coolant Distribution Unit with chilled water system for liquid cooling distribution" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Human Readable Description of Asset [AIF-MANAGED]"
+    )
+    custom string aif:core:assetValidatorVersion = "1.10.4" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Asset Validator version [AIF-MANAGED]"
+    )
+    custom string aif:core:assetVersion = "0.1.0" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Design Revision of Digital Twin Asset [AIF-MANAGED]"
+    )
+    custom string aif:core:connectsToModelDocumentation = "https://docs.omniverse.nvidia.com/vfi/latest/guide/get-started.html" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Url to online documentation [AIF-MANAGED]"
+    )
+    custom float aif:core:depth = 1200 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Equipment depth in mm [AIF-MANAGED]"
+    )
+    custom float aif:core:height = 2400 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Equipment height in mm [AIF-MANAGED]"
+    )
+    custom float aif:core:installationClearance = 2000 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Installation Clearance in mm [AIF-MANAGED]"
+    )
+    custom string aif:core:manufacturer = "KddcCorp" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Equipment manufacturer name [AIF-MANAGED]"
+    )
+    custom string aif:core:modelNumber = "Generic CDU" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Equipment model number [AIF-MANAGED]"
+    )
+    custom vector3f aif:core:overallGeometryDimensions = (1200, 1200, 2400) (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Overall Geometry (WxDxH) (mm) [AIF-MANAGED]"
+    )
+    custom string aif:core:sceneOptimizerVersion = "110.0.0" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Scene Optimizer version [AIF-MANAGED]"
+    )
+    custom float aif:core:weight = 1569 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Equipment weight in kilograms [AIF-MANAGED]"
+    )
+    custom float aif:core:width = 1200 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Equipment width in mm [AIF-MANAGED]"
+    )
+    custom float aif:spec:auxiliaryPowerSourceAndConnections = 1 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Auxiliary Power Source & Connections [AIF-MANAGED]"
+    )
+    custom string aif:spec:breaker = "40A 3P" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Breaker [AIF-MANAGED]"
+    )
+    custom float aif:spec:communication1 = 1 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Communication1 [AIF-MANAGED]"
+    )
+    custom float aif:spec:communication2 = 1 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Communication2 [AIF-MANAGED]"
+    )
+    custom string aif:spec:controlHmi = "7 inch Touchscreen LCD" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Control HMI [AIF-MANAGED]"
+    )
+    custom float aif:spec:controlWiresForExternalComm = 4 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Control Wires for external comm [AIF-MANAGED]"
+    )
+    custom float[] aif:spec:coolingCapacityCurve = [] (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Cooling Capacity Curve Flow rate vs Cooling Capacity (5 points on curve required) [AIF-MANAGED]"
+    )
+    custom string aif:spec:coolingType = "Chilled Water system" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Primary Cooling type: Water/Glycol [AIF-MANAGED]"
+    )
+    custom float aif:spec:current = 32 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Electrical Current [AIF-MANAGED]"
+    )
+    custom string aif:spec:disconnect = "Rotary Isolator" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Disconnect [AIF-MANAGED]"
+    )
+    custom float aif:spec:efficiency = 0.95 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Electrical Efficiency [AIF-MANAGED]"
+    )
+    custom float aif:spec:efficiencyRotatingEquipment = 0.89 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Efficiency of Rotating Equipment [AIF-MANAGED]"
+    )
+    custom float aif:spec:filterSizeCoolingCapacity = 50 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Filter size [Î¼] for Cooling Capacity [AIF-MANAGED]"
+    )
+    custom string aif:spec:filterSizePumps = "50" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Filter size [Î¼] for pumps [AIF-MANAGED]"
+    )
+    custom float aif:spec:frequency = 60 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Electrical Frequency [AIF-MANAGED]"
+    )
+    custom string aif:spec:fuse = "40A gG" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Fuse [AIF-MANAGED]"
+    )
+    custom float aif:spec:fwsReturnPipingConnection = 100 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "FWS Return piping connection in mm hygienic flanges top or bottom with Unique Id [AIF-MANAGED]"
+    )
+    custom float aif:spec:fwsSupplyPipingConnection = 100 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "FWS Supply piping connection in mm hygienic flanges top or bottom with Unique Id [AIF-MANAGED]"
+    )
+    custom float aif:spec:incomingPowerFeeds = 2 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Incoming power feeds [AIF-MANAGED]"
+    )
+    custom float aif:spec:maximumCoolingCapacity = 1500 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Maximum  Cooling Capacity [AIF-MANAGED]"
+    )
+    custom float aif:spec:maximumFlow = 0.025 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Maximum Flow 3x Pump Running in cubic meter/second [AIF-MANAGED]"
+    )
+    custom float aif:spec:maximumPowerConsumption2XPumps = 16.4 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Maximum Power Consumption (2x Pumps) at maximum flow and external pressure drop [AIF-MANAGED]"
+    )
+    custom float aif:spec:maximumPowerConsumption3XPumps = 24.6 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Maximum Power Consumption (3x Pumps) at maximum flow and external pressure drop [AIF-MANAGED]"
+    )
+    custom float aif:spec:maxSpeed = 60 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Max speed [Hz] [AIF-MANAGED]"
+    )
+    custom float aif:spec:motorPowerInfo = 11 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Motor/Pump Power Info [AIF-MANAGED]"
+    )
+    custom string aif:spec:motorSize = "IEC 132" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Motor/Pump Size [AIF-MANAGED]"
+    )
+    custom string aif:spec:mountStyle = "In Row" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Mount Style: In Row, In Rack [AIF-MANAGED]"
+    )
+    custom float aif:spec:nominalCoolingCapacity = 1200 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Nominal  Cooling Capacity [AIF-MANAGED]"
+    )
+    custom float aif:spec:nominalFlow = 0.018 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Nominal Flow 2x Pump Running in cubic meter/second [AIF-MANAGED]"
+    )
+    custom float aif:spec:nominalVoltage = 400 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Electrical Nominal Voltage (V) [AIF-MANAGED]"
+    )
+    custom int aif:spec:numberOfPumps = 3 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Number of pumps [AIF-MANAGED]"
+    )
+    custom float aif:spec:powerFactor = 0.92 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Electrical Power Factor [AIF-MANAGED]"
+    )
+    custom float aif:spec:powerFactorRotatingEquipment = 0.85 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Power Factor Rotating Equipment [AIF-MANAGED]"
+    )
+    custom float aif:spec:powerRating = 22 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Electrical Power Rating in kw [AIF-MANAGED]"
+    )
+    custom float aif:spec:powerTransferDesign = 22 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Power Transfer Design [AIF-MANAGED]"
+    )
+    custom float aif:spec:powerTransferDevice = 22 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Power Transfer Device [AIF-MANAGED]"
+    )
+    custom float aif:spec:primaryCircuitVolume = 95 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Primary Circuit Volume in Liters [AIF-MANAGED]"
+    )
+    custom string aif:spec:primaryFiltration = "500" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Primary Filtration External with bypass to enable cleaning [AIF-MANAGED]"
+    )
+    custom float[] aif:spec:pumpFlowCurve = [] (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Pump flow curve: (CMS vs KPa) (5 points on curve required) [AIF-MANAGED]"
+    )
+    custom float aif:spec:pumpRedundancyStrategyCoolingCapacity = 1200 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Pump redundancy strategy for Cooling Capacity [AIF-MANAGED]"
+    )
+    custom string aif:spec:pumpRedundancyStrategyPumps = "N+1" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Pump redundancy strategy for pumps [AIF-MANAGED]"
+    )
+    custom string aif:spec:ratedCableSize = "10 AWG" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Rated Cable Size [AIF-MANAGED]"
+    )
+    custom string aif:spec:ratedHp = "15" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Rated HP [AIF-MANAGED]"
+    )
+    custom float aif:spec:ratedMaxPower = 11 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Rated Max Power [AIF-MANAGED]"
+    )
+    custom float aif:spec:ratedSpeed = 50 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Rated speed [Hz] [AIF-MANAGED]"
+    )
+    custom float aif:spec:ratedVoltageIncomingPower = 400 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Rated Voltage Incoming Power [AIF-MANAGED]"
+    )
+    custom float aif:spec:ratedVoltageRotatingEquipment = 400 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Rated Voltage Rotating Equipment [AIF-MANAGED]"
+    )
+    custom string aif:spec:redundancyScheme = "N+1" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Redundancy Scheme [AIF-MANAGED]"
+    )
+    custom float aif:spec:referenceFacilityCoolantTemperature = 308 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Reference facility coolant temperature in Kelvin [AIF-MANAGED]"
+    )
+    custom float aif:spec:referenceSecondaryCoolantTemperature = 318 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Reference Secondary Coolant Temperature in Kelvin range [AIF-MANAGED]"
+    )
+    custom float aif:spec:referenceTechnologyCoolantFlowRate = 750 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Reference technology coolant flow rate in LPM [AIF-MANAGED]"
+    )
+    custom float aif:spec:secondaryCircuitVolume = 120 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Secondary Circuit Volume in Liters [AIF-MANAGED]"
+    )
+    custom string aif:spec:secondaryFiltration = "100" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Secondary Filtration External with bypass to enable cleaning [AIF-MANAGED]"
+    )
+    custom float aif:spec:tcsReturnPipingConnection = 80 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "TCS Return piping connection in mm hygienic flanges top or bottom with Unique Id [AIF-MANAGED]"
+    )
+    custom float aif:spec:tcsSupplyPipingConnection = 80 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "TCS Supply piping connection in mm hygienic flanges top or bottom with Unique Id [AIF-MANAGED]"
+    )
+    custom float aif:spec:totalHeatDissipated = 1350 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Total heat dissipated [kW] [AIF-MANAGED]"
+    )
+    custom string aif:spec:wettedMaterialFws = "Stainless Steel 316L, EPDM" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Wetted Material List for FWS [AIF-MANAGED]"
+    )
+    custom string aif:spec:wettedMaterialTcs = "Stainless Steel 316L, EPDM" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Wetted Material List for TCS [AIF-MANAGED]"
+    )
+    custom string aif:spec:wiringMethod = "Hardwired" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Wiring Method [AIF-MANAGED]"
+    )
+    custom float aif:spec:workingFluidCoolingCapacity = 1200 (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Working fluid for Cooling Capacity [AIF-MANAGED]"
+    )
+    custom string aif:spec:workingFluidPumps = "Propylene Glycol / Water Mix" (
+        customData = {
+            dictionary omni = {
+                dictionary kit = {
+                    bool locked = 1
+                }
+            }
+        }
+        doc = "Working fluid for pumps [AIF-MANAGED]"
+    )
+}
+

@@ -1,0 +1,42 @@
+.global-cockpit{position:absolute;z-index:7;top:171px;left:34px;width:304px;max-height:calc(100% - 290px);overflow:auto;scrollbar-width:thin;color:var(--energy-text);background:var(--energy-surface);border:1px solid var(--energy-border);border-radius:10px;box-shadow:0 18px 45px #0003;backdrop-filter:blur(22px)}
+.global-cockpit header{height:42px;display:flex;align-items:center;justify-content:space-between;padding:0 14px;border-bottom:1px solid var(--energy-border)}
+.global-cockpit-kicker{display:flex;align-items:center;gap:8px;font-size:11px;font-weight:600;letter-spacing:.03em}
+.global-cockpit-kicker svg{color:var(--energy-accent)}
+.global-cockpit header button,.global-cockpit-section-title button{width:25px;height:25px;display:grid;place-items:center;padding:0;border:0;border-radius:5px;background:transparent;color:var(--energy-muted)}
+.global-cockpit header button:hover,.global-cockpit-section-title button:hover{background:var(--energy-soft);color:var(--energy-text)}
+.global-cockpit-totals{display:grid;grid-template-columns:repeat(4,1fr);padding:12px 10px;gap:0}
+.global-cockpit-totals>div{text-align:center;border-right:1px solid var(--energy-border)}
+.global-cockpit-totals>div:last-child{border-right:0}
+.global-cockpit-totals strong{display:block;font:500 18px/1.2 'Segoe UI',sans-serif;font-variant-numeric:tabular-nums}
+.global-cockpit-totals span{display:block;margin-top:5px;color:var(--energy-muted);font-size:9px}
+.global-cockpit-body{border-top:1px solid var(--energy-border);padding:0 14px 13px}
+.global-cockpit-section-title{height:37px;display:flex;align-items:center;justify-content:space-between;color:var(--energy-muted);font-size:9px;letter-spacing:.08em}
+.global-cockpit-sites{max-height:118px;overflow:auto;scrollbar-width:thin}
+.global-cockpit-sites button{width:100%;display:flex;align-items:center;gap:9px;padding:9px 7px;text-align:left;background:transparent;border:1px solid transparent;border-radius:6px;color:var(--energy-text)}
+.global-cockpit-sites button:hover,.global-cockpit-sites button[aria-pressed=true]{background:var(--energy-soft);border-color:var(--energy-border)}
+.global-cockpit-sites button>span:nth-child(2){flex:1;min-width:0}
+.global-cockpit-sites strong{display:block;font-size:10px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.global-cockpit-sites small{display:block;margin-top:4px;color:var(--energy-muted);font-size:9px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.global-cockpit-sites svg{color:var(--energy-muted)}
+.global-cockpit-site-dot{width:6px;height:6px;border-radius:50%;background:var(--energy-accent);box-shadow:0 0 0 4px var(--energy-soft)}
+.global-cockpit-empty{display:block;padding:12px 5px;color:var(--energy-muted);font-size:10px}
+.global-cockpit-detail{border-top:1px solid var(--energy-border);margin-top:10px;padding-top:12px}
+.global-cockpit-detail-head{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.global-cockpit-detail-head strong{font-size:11px;font-weight:600}
+.global-cockpit-detail-head span{font-size:9px;color:var(--energy-muted)}
+.global-cockpit-metrics{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}
+.global-cockpit-metrics>div{padding:8px 10px;background:var(--energy-soft);border:1px solid var(--energy-border);border-radius:6px}
+.global-cockpit-metrics span{display:block;color:var(--energy-muted);font-size:9px}
+.global-cockpit-metrics strong{display:block;margin-top:5px;font:500 12px/1.3 'Segoe UI',sans-serif;font-variant-numeric:tabular-nums}
+.global-cockpit-provenance{display:flex;justify-content:space-between;gap:8px;margin:12px 0;color:var(--energy-muted);font-size:9px}
+.global-cockpit-actions{display:flex;gap:7px}
+.global-cockpit-actions button{flex:1;display:flex;align-items:center;justify-content:center;gap:5px;height:30px;padding:0 5px;background:var(--energy-soft);color:var(--energy-text);border:1px solid var(--energy-border);border-radius:5px;font-size:10px}
+.global-cockpit-actions button:hover:not(:disabled){border-color:var(--energy-accent);color:var(--energy-accent)}
+.global-cockpit-actions button:disabled{opacity:.42;cursor:not-allowed}
+.global-cockpit-source{display:block;margin-top:12px;color:var(--energy-muted);font-size:8px;line-height:1.5}
+.global-cockpit-error{color:#dc977d;font-size:10px;line-height:1.5}
+.global-cockpit.is-compact{width:191px;max-height:none}
+.global-cockpit.is-compact header{border-bottom:0}
+.energy-world.is-focused .global-cockpit{display:none}
+@media(max-height:760px){.global-cockpit{top:153px;max-height:calc(100% - 235px)}.global-cockpit-body{padding-bottom:9px}.global-cockpit-source{display:none}}
+@media(max-width:1150px){.global-cockpit{left:22px;width:270px}.global-cockpit.is-compact{width:180px}}

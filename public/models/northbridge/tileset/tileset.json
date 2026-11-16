@@ -1,0 +1,72 @@
+{
+  "asset": {
+    "version": "1.0",
+    "generator": "Northbridge research alignment / 3d-tiles-tools"
+  },
+  "geometricError": 200,
+  "root": {
+    "boundingVolume": {
+      "box": [
+        13263717.328018548,
+        3700466.78134511,
+        4,
+        60,
+        0,
+        0,
+        0,
+        40,
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    "geometricError": 0,
+    "content": {
+      "uri": "northbridge.b3dm"
+    },
+    "children": [
+      {
+        "boundingVolume": {
+          "box": [
+            13263897.328018548,
+            3700546.78134511,
+            4,
+            45,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            4
+          ]
+        },
+        "geometricError": 0,
+        "transform": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          13263897.328018548,
+          3700546.78134511,
+          0,
+          1
+        ],
+        "content": {
+          "uri": "warehouse.b3dm"
+        },
+        "children": []
+      }
+    ]
+  }
+}

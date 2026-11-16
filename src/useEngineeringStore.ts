@@ -1,0 +1,3 @@
+import {create} from 'zustand'
+import type {EngineeringResult,EngineeringField} from './engineeringSimulation'
+export const useEngineeringStore=create<{visible:boolean;setVisible:(v:boolean)=>void;overlay:EngineeringResult|null;field:EngineeringField|null;setOverlay:(r:EngineeringResult|null,f?:EngineeringField|null)=>void;slice:number;setSlice:(v:number)=>void;vectors:boolean;setVectors:(v:boolean)=>void}>((set)=>({visible:false,setVisible:visible=>set({visible}),overlay:null,field:null,setOverlay:(overlay,field=null)=>set({overlay,field}),slice:1.5,setSlice:slice=>set({slice}),vectors:false,setVectors:vectors=>set({vectors})}))

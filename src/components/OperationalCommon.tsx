@@ -1,0 +1,7 @@
+import {X,AlertTriangle,CheckCircle2} from 'lucide-react'
+import type {ReactNode} from 'react'
+export function OpsMessage({error,notice}:{error?:string;notice?:string}){return error?<div className="op-message is-error" role="alert"><AlertTriangle size={15}/><span>{error}</span></div>:notice?<div className="op-message" role="status"><CheckCircle2 size={15}/><span>{notice}</span></div>:null}
+export function OpsModal({title,onClose,children}:{title:string;onClose:()=>void;children:ReactNode}){return <div className="op-modal-shade"><section className="op-modal" role="dialog" aria-modal="true" aria-label={title}><header><h2>{title}</h2><button aria-label="关闭操作窗口" onClick={onClose}><X size={17}/></button></header>{children}</section></div>}
+export function OpsField({label,children}:{label:string;children:ReactNode}){return <label className="op-field"><span>{label}</span>{children}</label>}
+export function OpsNumber({label,value,onChange,min=0,step='any'}:{label:string;value:number|null;onChange:(v:number|null)=>void;min?:number;step?:string}){return <OpsField label={label}><input aria-label={label} type="number" min={min} step={step} value={value??''} placeholder="未提供" onChange={e=>onChange(e.target.value!==''&&Number.isFinite(e.target.valueAsNumber)?e.target.valueAsNumber:null)}/></OpsField>}
+export function OpsEmpty({title,text,action}:{title:string;text?:string;action?:ReactNode}){return <div className="op-empty"><h3>{title}</h3>{text&&<p>{text}</p>}{action}</div>}

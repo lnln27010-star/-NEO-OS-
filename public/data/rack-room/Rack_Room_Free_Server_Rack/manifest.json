@@ -1,0 +1,82 @@
+{
+  "blender": "4.5.13 LTS",
+  "production": "Original procedural geometry and constant-color materials, developed with AI assistance. No external assets, logos or textures.",
+  "sprite_views": {
+    "top": {
+      "elevation_degrees": 90,
+      "azimuth_degrees": 0,
+      "orthographic_span_blender_units": 2.6,
+      "origin_normalized_bottom_left": [
+        0.5,
+        0.5
+      ],
+      "anchor_pixels_top_left": {
+        "128": [
+          64.0,
+          64.0
+        ],
+        "256": [
+          128.0,
+          128.0
+        ]
+      }
+    },
+    "tilt": {
+      "elevation_degrees": 68,
+      "azimuth_degrees": 0,
+      "orthographic_span_blender_units": 2.6,
+      "origin_normalized_bottom_left": [
+        0.5,
+        0.39914411306381226
+      ],
+      "anchor_pixels_top_left": {
+        "128": [
+          64.0,
+          76.91
+        ],
+        "256": [
+          128.0,
+          153.819
+        ]
+      }
+    }
+  },
+  "sprite_sizes": [
+    128,
+    256
+  ],
+  "product": "Rack Room \u2014 Free Server Rack Sample",
+  "version": "1.0.1",
+  "source_pack_version": "1.1",
+  "models": [
+    {
+      "id": "server_rack",
+      "triangles": 2496,
+      "vertices": 1360,
+      "bounds_blender_xyz": [
+        [
+          -0.3799999952316284,
+          0.3799999952316284
+        ],
+        [
+          -0.6155000329017639,
+          0.574999988079071
+        ],
+        [
+          0.0,
+          1.6649999618530273
+        ]
+      ],
+      "pivot_blender_xyz": [
+        0,
+        0,
+        0
+      ],
+      "bytes": 191676,
+      "sha256": "d5a560ac9f4036e86e431de278329b645a73da05e2d10a9f64e88c01d349d75f"
+    }
+  ],
+  "sprite_count": 4,
+  "scope": "One static GLB and four rendered sprites. No Blender source scene, room layout or extra props in this free sample.",
+  "changes": "License wording clarification for free recipients; five asset files unchanged."
+}

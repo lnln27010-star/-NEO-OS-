@@ -1,0 +1,23 @@
+node_modules/
+dist/
+.venv-sim/
+.solver-data/
+__pycache__/
+*.pyc
+artifacts/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+.env
+.env.*
+!.env.example
+.agents/
+.claude/
+.codex/
+.impeccable/
+.playwright/
+.tmp-*/
+
+# Playwright CLI output (may contain credentials)
+.playwright-cli/
+.tmp-neo-os-reference/

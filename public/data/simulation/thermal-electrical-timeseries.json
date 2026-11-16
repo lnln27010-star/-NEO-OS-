@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "dt-sim-0.2",
+  "siteId": "CN-JS-NJ-PROTOTYPE",
+  "modelVersion": "a2-liquid-hall-test-2026.09",
+  "dataStatus": "synthetic-calibration",
+  "source": "OpenDSS/OpenFOAM-compatible synthetic test fixture",
+  "generatedAt": "2026-09-29T08:00:00+08:00",
+  "frames": [
+    {"timestamp":"2026-09-29T08:00:00+08:00","thermal":{"inletTemp":23.7,"peakTemp":36.8,"flowRate":84,"pressure":154,"coolingCapacity":2860},"electrical":{"activePower":2180,"reactivePower":410,"voltage":399.2,"current":3150,"powerFactor":0.983,"frequency":50.01,"rppLoad":64,"upsLoad":71}},
+    {"timestamp":"2026-09-29T08:05:00+08:00","thermal":{"inletTemp":23.9,"peakTemp":37.4,"flowRate":86,"pressure":156,"coolingCapacity":2860},"electrical":{"activePower":2240,"reactivePower":425,"voltage":398.8,"current":3220,"powerFactor":0.982,"frequency":50.00,"rppLoad":67,"upsLoad":73}},
+    {"timestamp":"2026-09-29T08:10:00+08:00","thermal":{"inletTemp":24.1,"peakTemp":38.2,"flowRate":89,"pressure":159,"coolingCapacity":2860},"electrical":{"activePower":2310,"reactivePower":442,"voltage":398.4,"current":3310,"powerFactor":0.981,"frequency":49.99,"rppLoad":70,"upsLoad":76}},
+    {"timestamp":"2026-09-29T08:15:00+08:00","thermal":{"inletTemp":24.3,"peakTemp":39.0,"flowRate":92,"pressure":162,"coolingCapacity":2860},"electrical":{"activePower":2385,"reactivePower":461,"voltage":397.9,"current":3420,"powerFactor":0.980,"frequency":49.98,"rppLoad":73,"upsLoad":78}},
+    {"timestamp":"2026-09-29T08:20:00+08:00","thermal":{"inletTemp":24.5,"peakTemp":40.4,"flowRate":95,"pressure":166,"coolingCapacity":2860},"electrical":{"activePower":2460,"reactivePower":482,"voltage":397.5,"current":3540,"powerFactor":0.979,"frequency":49.98,"rppLoad":77,"upsLoad":81}},
+    {"timestamp":"2026-09-29T08:25:00+08:00","thermal":{"inletTemp":24.8,"peakTemp":42.1,"flowRate":98,"pressure":171,"coolingCapacity":2860},"electrical":{"activePower":2550,"reactivePower":506,"voltage":396.9,"current":3680,"powerFactor":0.978,"frequency":49.97,"rppLoad":82,"upsLoad":85}},
+    {"timestamp":"2026-09-29T08:30:00+08:00","thermal":{"inletTemp":25.1,"peakTemp":43.6,"flowRate":101,"pressure":175,"coolingCapacity":2860},"electrical":{"activePower":2635,"reactivePower":531,"voltage":396.3,"current":3820,"powerFactor":0.975,"frequency":49.96,"rppLoad":87,"upsLoad":89}},
+    {"timestamp":"2026-09-29T08:35:00+08:00","thermal":{"inletTemp":25.4,"peakTemp":44.8,"flowRate":98,"pressure":168,"coolingCapacity":2710},"electrical":{"activePower":2700,"reactivePower":558,"voltage":395.2,"current":3970,"powerFactor":0.972,"frequency":49.95,"rppLoad":93,"upsLoad":96}}
+  ]
+}

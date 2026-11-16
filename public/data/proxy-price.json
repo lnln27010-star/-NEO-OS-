@@ -1,0 +1,3962 @@
+{
+  "宁夏回族自治区": {
+    "2025-09": {
+      "price": 0.4841,
+      "peak": 0.4606,
+      "normal": 0.2809,
+      "valley": 0.1435,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.4841,
+      "peak": 0.4275,
+      "normal": 0.2466,
+      "valley": 0.095,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.4841,
+      "peak": 0.4523,
+      "normal": 0.2715,
+      "valley": 0.1275,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.4841,
+      "peak": 0.4517,
+      "normal": 0.2797,
+      "valley": 0.1335,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.4841,
+      "peak": 0.3107,
+      "normal": 0.3108,
+      "valley": 0.1645,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.4841,
+      "peak": 0.3148,
+      "normal": 0.3177,
+      "valley": 0.162,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.4841,
+      "peak": 0.2947,
+      "normal": 0.324,
+      "valley": 0.1683,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.4841,
+      "peak": 0.3344,
+      "normal": 0.2906,
+      "valley": 0.1787,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.4841,
+      "peak": 0.3409,
+      "normal": 0.2968,
+      "valley": 0.1852,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.4841,
+      "peak": 0.3404,
+      "normal": 0.2931,
+      "valley": 0.1847,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.4841,
+      "peak": 0.3498,
+      "normal": 0.304,
+      "valley": 0.1941,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.4841,
+      "peak": 0.3481,
+      "normal": 0.3196,
+      "valley": 0.1924,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    }
+  },
+  "内蒙古东部地区": {
+    "2025-09": {
+      "price": 0.277294,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.261343,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.279507,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.298519,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.248454,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.196301,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.194947,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.169877,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.178271,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.254391,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.285415,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.286507,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 10
+    }
+  },
+  "北京市": {
+    "2025-09": {
+      "price": 0.401125,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.396404,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.397654,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.397244,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.383338,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.380804,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.388706,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.384024,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.398713,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.384467,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.386827,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.389702,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    }
+  },
+  "新疆维吾尔自治区": {
+    "2025-09": {
+      "price": 0,
+      "peak": 0.422306,
+      "normal": 0.273205,
+      "valley": 0.155486,
+      "deepValley": 0.141882,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0,
+      "peak": 0.421885,
+      "normal": 0.273133,
+      "valley": 0.159923,
+      "deepValley": 0.141882,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0,
+      "peak": 0.419325,
+      "normal": 0.265725,
+      "valley": 0.129649,
+      "deepValley": 0.141882,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0,
+      "peak": 0.405174,
+      "normal": 0.269017,
+      "valley": 0.149207,
+      "deepValley": 0.141882,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0,
+      "peak": 0.246328,
+      "normal": 0.234939,
+      "valley": 0.228677,
+      "deepValley": 0.141882,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0,
+      "peak": 0.276373,
+      "normal": 0.287741,
+      "valley": 0.278432,
+      "deepValley": 0.141882,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0,
+      "peak": 0.513831,
+      "normal": 0.321914,
+      "valley": 0.129996,
+      "deepValley": 0.141882,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0,
+      "peak": 0.358476,
+      "normal": 0.228721,
+      "valley": 0.098966,
+      "deepValley": 0.141882,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0,
+      "peak": 0.365283,
+      "normal": 0.237646,
+      "valley": 0.110009,
+      "deepValley": 0.084481,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.152292,
+      "peak": 0.233165,
+      "normal": 0.152292,
+      "valley": 0.07142,
+      "deepValley": 0.055245,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.152292,
+      "peak": 0.203546,
+      "normal": 0.116312,
+      "valley": 0.029078,
+      "deepValley": 0.011631,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.152292,
+      "peak": 0.365222,
+      "normal": 0.248484,
+      "valley": 0.131747,
+      "deepValley": 0.108399,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    }
+  },
+  "黑龙江省": {
+    "2025-09": {
+      "price": 0.389904,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2025-10": {
+      "price": 0.395473,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2025-11": {
+      "price": 0.400317,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2025-12": {
+      "price": 0.406385,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-01": {
+      "price": 0.30771,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-02": {
+      "price": 0.2992,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-03": {
+      "price": 0.306661,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-04": {
+      "price": 0.309051,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-05": {
+      "price": 0.300874,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-06": {
+      "price": 0.296527,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-07": {
+      "price": 0.307578,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-08": {
+      "price": 0.307105,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    }
+  },
+  "浙江省": {
+    "2025-09": {
+      "price": 0.4309,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 11
+    },
+    "2025-10": {
+      "price": 0.4421,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 11
+    },
+    "2025-11": {
+      "price": 0.418324,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 11
+    },
+    "2025-12": {
+      "price": 0.442766,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 11
+    },
+    "2026-01": {
+      "price": 0.408586,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 11
+    },
+    "2026-02": {
+      "price": 0.386655,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 11
+    },
+    "2026-03": {
+      "price": 0.371954,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 11
+    },
+    "2026-04": {
+      "price": 0.352658,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 11
+    },
+    "2026-05": {
+      "price": 0.371867,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 11
+    },
+    "2026-06": {
+      "price": 0.391006,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 11
+    },
+    "2026-07": {
+      "price": 0.421346,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 13
+    },
+    "2026-08": {
+      "price": 0.41784,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 13
+    }
+  },
+  "江苏省": {
+    "2025-09": {
+      "price": 0.424,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2025-10": {
+      "price": 0.4336,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2025-11": {
+      "price": 0.4393,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2025-12": {
+      "price": 0.4525,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-01": {
+      "price": 0.3937,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-02": {
+      "price": 0.3102,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-03": {
+      "price": 0.3458,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-04": {
+      "price": 0.3715,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-05": {
+      "price": 0.3529,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-06": {
+      "price": 0.373,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-07": {
+      "price": 0.3949,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-08": {
+      "price": 0.3832,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    }
+  },
+  "辽宁省": {
+    "2025-09": {
+      "price": 0.44011,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-10": {
+      "price": 0.427419,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-11": {
+      "price": 0.410893,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-12": {
+      "price": 0.441921,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-01": {
+      "price": 0.332847,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-02": {
+      "price": 0.331216,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-03": {
+      "price": 0.199096,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-04": {
+      "price": 0.28815,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-05": {
+      "price": 0.284631,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-06": {
+      "price": 0.284091,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-07": {
+      "price": 0.318004,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-08": {
+      "price": 0.316501,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    }
+  },
+  "广东省江门市": {
+    "2025-09": {
+      "price": 0.503,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-10": {
+      "price": 0.491,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-11": {
+      "price": 0.4329,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-12": {
+      "price": 0.4563,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-01": {
+      "price": 0.3789,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-02": {
+      "price": 0.4128,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-03": {
+      "price": 0.4178,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-04": {
+      "price": 0.4043,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-05": {
+      "price": 0.4457,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-06": {
+      "price": 0.4708,
+      "peak": 0.7867,
+      "normal": 0.4708,
+      "valley": 0.1911,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-07": {
+      "price": 0.4962,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-08": {
+      "price": 0.465,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    }
+  },
+  "河南省": {
+    "2025-09": {
+      "price": 0.405102,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2025-10": {
+      "price": 0.4054,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2025-11": {
+      "price": 0.3774,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2025-12": {
+      "price": 0.398724,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-01": {
+      "price": 0.339764,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-02": {
+      "price": 0.385249,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-03": {
+      "price": 0.393173,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-04": {
+      "price": 0.352904,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-05": {
+      "price": 0.312235,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-06": {
+      "price": 0.318828,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-07": {
+      "price": 0.357879,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-08": {
+      "price": 0.451405,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    }
+  },
+  "山东省": {
+    "2025-09": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.2725,
+      "peak": 0.2725,
+      "normal": 0.2725,
+      "valley": 0.2725,
+      "deepValley": 0.2725,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.2725,
+      "peak": 0.2725,
+      "normal": 0.2725,
+      "valley": 0.2725,
+      "deepValley": 0.2725,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.2725,
+      "peak": 0.2725,
+      "normal": 0.2725,
+      "valley": 0.2725,
+      "deepValley": 0.2725,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    }
+  },
+  "江西省": {
+    "2025-09": {
+      "price": 0.4537,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.453494,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.455674,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.441183,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.362841,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.414615,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.410183,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.412085,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.376999,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.382739,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.365562,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.408914,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    }
+  },
+  "四川省": {
+    "2025-09": {
+      "price": 0.237806,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.268329,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.378832,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.430561,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.422843,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.413906,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.420719,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.388865,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.335176,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.207022,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.212732,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.260434,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    }
+  },
+  "上海市": {
+    "2025-09": {
+      "price": 0.456,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 13
+    },
+    "2025-10": {
+      "price": 0.4515,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 13
+    },
+    "2025-11": {
+      "price": 0.45,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 13
+    },
+    "2025-12": {
+      "price": 0.4398,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 13
+    },
+    "2026-01": {
+      "price": 0.4325,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 13
+    },
+    "2026-02": {
+      "price": 0.430266,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 13
+    },
+    "2026-03": {
+      "price": 0.439077,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 13
+    },
+    "2026-04": {
+      "price": 0.409164,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 13
+    },
+    "2026-05": {
+      "price": 0.426043,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 13
+    },
+    "2026-06": {
+      "price": 0.43508,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 13
+    },
+    "2026-07": {
+      "price": 0.450194,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 13
+    },
+    "2026-08": {
+      "price": 0.428899,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "不满1千伏",
+      "detailCount": 15
+    }
+  },
+  "安徽省": {
+    "2025-09": {
+      "price": 0.41247,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.38928,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.38851,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.401,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.34786,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.35945,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.33697,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.34453,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.34546,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.32176,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.30306,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.31399,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    }
+  },
+  "陕西省": {
+    "2025-09": {
+      "price": 0.3404,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2025-10": {
+      "price": 0.3295,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2025-11": {
+      "price": 0.4349,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2025-12": {
+      "price": 0.4196,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-01": {
+      "price": 0.3813,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-02": {
+      "price": 0.3987,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-03": {
+      "price": 0.3376,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-04": {
+      "price": 0.3232,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-05": {
+      "price": 0.2876,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-06": {
+      "price": 0.2566,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-07": {
+      "price": 0.2598,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-08": {
+      "price": 0.3048,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    }
+  },
+  "广东省东西两翼地区": {
+    "2025-09": {
+      "price": 0.503,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-10": {
+      "price": 0.491,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-11": {
+      "price": 0.4329,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-12": {
+      "price": 0.4563,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-01": {
+      "price": 0.3789,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-02": {
+      "price": 0.4128,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-03": {
+      "price": 0.4178,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-04": {
+      "price": 0.4043,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-05": {
+      "price": 0.4457,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-06": {
+      "price": 0.4708,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-07": {
+      "price": 0.4962,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-08": {
+      "price": 0.465,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    }
+  },
+  "广东省粤北山区": {
+    "2025-09": {
+      "price": 0.503,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-10": {
+      "price": 0.491,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-11": {
+      "price": 0.4329,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-12": {
+      "price": 0.4563,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-01": {
+      "price": 0.3789,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-02": {
+      "price": 0.4128,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-03": {
+      "price": 0.4178,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-04": {
+      "price": 0.4043,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-05": {
+      "price": 0.4457,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-06": {
+      "price": 0.4708,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-07": {
+      "price": 0.4962,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-08": {
+      "price": 0.465,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    }
+  },
+  "甘肃省": {
+    "2025-09": {
+      "price": 0,
+      "peak": 0.283184,
+      "normal": 0.26885,
+      "valley": 0.258319,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0,
+      "peak": 0.310172,
+      "normal": 0.281258,
+      "valley": 0.274321,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0,
+      "peak": 0.339646,
+      "normal": 0.284148,
+      "valley": 0.20432,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0,
+      "peak": 0.338106,
+      "normal": 0.301865,
+      "valley": 0.197804,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0,
+      "peak": 0.350892,
+      "normal": 0.334887,
+      "valley": 0.116968,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0,
+      "peak": 0.380908,
+      "normal": 0.342979,
+      "valley": 0.125549,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0,
+      "peak": 0.332682,
+      "normal": 0.292959,
+      "valley": 0.086428,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0,
+      "peak": 0.292033,
+      "normal": 0.224025,
+      "valley": 0.094241,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0,
+      "peak": 0.229328,
+      "normal": 0.176717,
+      "valley": 0.08248,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0,
+      "peak": 0.209393,
+      "normal": 0.171188,
+      "valley": 0.072717,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0,
+      "peak": 0.236207,
+      "normal": 0.173197,
+      "valley": 0.080574,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0,
+      "peak": 0.262162,
+      "normal": 0.208736,
+      "valley": 0.119435,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    }
+  },
+  "海南省": {
+    "2025-09": {
+      "price": 0.566196,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2025-10": {
+      "price": 0.548766,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2025-11": {
+      "price": 0.567618,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2025-12": {
+      "price": 0.606639,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-01": {
+      "price": 0.623245,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-02": {
+      "price": 0.439247,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-03": {
+      "price": 0.397006,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-04": {
+      "price": 0.414656,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-05": {
+      "price": 0.452751,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-06": {
+      "price": 0.476635,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-07": {
+      "price": 0.430532,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-08": {
+      "price": 0.429358,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    }
+  },
+  "陕西省榆林地区": {
+    "2025-09": {
+      "price": 0.3404,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2025-10": {
+      "price": 0.3295,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2025-11": {
+      "price": 0.4349,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2025-12": {
+      "price": 0.4196,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-01": {
+      "price": 0.3813,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-02": {
+      "price": 0.3987,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-03": {
+      "price": 0.3376,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-04": {
+      "price": 0.3232,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-05": {
+      "price": 0.2876,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-06": {
+      "price": 0.2566,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-07": {
+      "price": 0.2598,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 8
+    },
+    "2026-08": {
+      "price": 0.3048,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    }
+  },
+  "福建省": {
+    "2025-09": {
+      "price": 0.4092,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2025-10": {
+      "price": 0.408429,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2025-11": {
+      "price": 0.408658,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2025-12": {
+      "price": 0.414982,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-01": {
+      "price": 0.386755,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-02": {
+      "price": 0.37949,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-03": {
+      "price": 0.366832,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-04": {
+      "price": 0.365616,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-05": {
+      "price": 0.370539,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-06": {
+      "price": 0.368627,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-07": {
+      "price": 0.372293,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    },
+    "2026-08": {
+      "price": 0.376146,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    }
+  },
+  "吉林省": {
+    "2025-09": {
+      "price": 0.41281,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2025-10": {
+      "price": 0.423957,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2025-11": {
+      "price": 0.426539,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2025-12": {
+      "price": 0.419572,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-01": {
+      "price": 0.34154,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-02": {
+      "price": 0.336807,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-03": {
+      "price": 0.340561,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-04": {
+      "price": 0.341581,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-05": {
+      "price": 0.331878,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-06": {
+      "price": 0.344146,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-07": {
+      "price": 0.342987,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 6
+    },
+    "2026-08": {
+      "price": 0.347286,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    }
+  },
+  "重庆市": {
+    "2025-09": {
+      "price": 0.447622,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.403249,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.437326,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.425644,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.431919,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.469529,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.451742,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.443278,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.463499,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.442646,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.479738,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.487445,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    }
+  },
+  "河北省南部": {
+    "2025-09": {
+      "price": 0.423,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    },
+    "2025-10": {
+      "price": 0.423932,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    },
+    "2025-11": {
+      "price": 0.425653,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    },
+    "2025-12": {
+      "price": 0.442347,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    },
+    "2026-01": {
+      "price": 0.424441,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    },
+    "2026-02": {
+      "price": 0.41091,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    },
+    "2026-03": {
+      "price": 0.397992,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    },
+    "2026-04": {
+      "price": 0.394105,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    },
+    "2026-05": {
+      "price": 0.402817,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    },
+    "2026-06": {
+      "price": 0.417141,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    },
+    "2026-07": {
+      "price": 0.430695,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    },
+    "2026-08": {
+      "price": 0.434047,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    }
+  },
+  "天津市": {
+    "2025-09": {
+      "price": 0.415,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    },
+    "2025-10": {
+      "price": 0.429616,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    },
+    "2025-11": {
+      "price": 0.42545,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    },
+    "2025-12": {
+      "price": 0.385294,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    },
+    "2026-01": {
+      "price": 0.366481,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    },
+    "2026-02": {
+      "price": 0.394759,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    },
+    "2026-03": {
+      "price": 0.393871,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    },
+    "2026-04": {
+      "price": 0.394595,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    },
+    "2026-05": {
+      "price": 0.388778,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    },
+    "2026-06": {
+      "price": 0.385138,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    },
+    "2026-07": {
+      "price": 0.389225,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    },
+    "2026-08": {
+      "price": 0.388069,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    }
+  },
+  "湖北省": {
+    "2025-09": {
+      "price": 0.4145,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.397236,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.426189,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.386994,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.38447,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.345162,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.372957,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.378856,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.360071,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.364502,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.364198,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.36138,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    }
+  },
+  "广东省惠州市": {
+    "2025-09": {
+      "price": 0.503,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-10": {
+      "price": 0.491,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-11": {
+      "price": 0.4329,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-12": {
+      "price": 0.4563,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-01": {
+      "price": 0.3789,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-02": {
+      "price": 0.4128,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-03": {
+      "price": 0.4178,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-04": {
+      "price": 0.4043,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-05": {
+      "price": 0.4457,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-06": {
+      "price": 0.4708,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-07": {
+      "price": 0.4962,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-08": {
+      "price": 0.465,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    }
+  },
+  "广东省珠三角五市": {
+    "2025-09": {
+      "price": 0.503,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-10": {
+      "price": 0.491,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-11": {
+      "price": 0.4329,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2025-12": {
+      "price": 0.4563,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-01": {
+      "price": 0.3789,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-02": {
+      "price": 0.4128,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-03": {
+      "price": 0.4178,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-04": {
+      "price": 0.4043,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-05": {
+      "price": 0.4457,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-06": {
+      "price": 0.4708,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-07": {
+      "price": 0.4962,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 6
+    },
+    "2026-08": {
+      "price": 0.465,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    }
+  },
+  "河北省北部": {
+    "2025-09": {
+      "price": 0.4172,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.418411,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.415325,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.417188,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.377774,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.392891,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.409009,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.417307,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.424239,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.415997,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.407395,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.385713,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    }
+  },
+  "湖南省": {
+    "2025-09": {
+      "price": 0.43667,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2025-10": {
+      "price": 0.503977,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2025-11": {
+      "price": 0.407314,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2025-12": {
+      "price": 0.438931,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-01": {
+      "price": 0.439353,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-02": {
+      "price": 0.441534,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-03": {
+      "price": 0.437547,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-04": {
+      "price": 0.385865,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-05": {
+      "price": 0.374954,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-06": {
+      "price": 0.334046,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-07": {
+      "price": 0.347504,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-08": {
+      "price": 0.380321,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    }
+  },
+  "青海省": {
+    "2025-09": {
+      "price": 0.258549,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.317186,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.355196,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.284222,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.259001,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.282908,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.284194,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.223956,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.21983,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.195972,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.219063,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.22018,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 9
+    }
+  },
+  "山西省": {
+    "2025-09": {
+      "price": 0.340653,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.354694,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.38889,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.398827,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.295868,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.305396,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.289594,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.322953,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.273332,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.287984,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.286104,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.328694,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    }
+  },
+  "贵州省": {
+    "2025-09": {
+      "price": 0.386614,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2025-10": {
+      "price": 0.387696,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2025-11": {
+      "price": 0.38903,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2025-12": {
+      "price": 0.388997,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-01": {
+      "price": 0.373518,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-02": {
+      "price": 0.392746,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-03": {
+      "price": 0.384898,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-04": {
+      "price": 0.366384,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-05": {
+      "price": 0.383948,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-06": {
+      "price": 0.39726,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-07": {
+      "price": 0.388555,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    },
+    "2026-08": {
+      "price": 0.379863,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 4
+    }
+  },
+  "云南省": {
+    "2025-09": {
+      "price": 0.203089,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2025-10": {
+      "price": 0.210022,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2025-11": {
+      "price": 0.28072,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2025-12": {
+      "price": 0.284334,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-01": {
+      "price": 0.243876,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-02": {
+      "price": 0.25519,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-03": {
+      "price": 0.288272,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-04": {
+      "price": 0.300349,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-05": {
+      "price": 0.279347,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-06": {
+      "price": 0.248532,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-07": {
+      "price": 0.205124,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 8
+    },
+    "2026-08": {
+      "price": 0.160144,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 10
+    }
+  },
+  "广西壮族自治区": {
+    "2025-09": {
+      "price": 0.374104,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-10": {
+      "price": 0.371994,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-11": {
+      "price": 0.398845,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2025-12": {
+      "price": 0.388898,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-01": {
+      "price": 0.360177,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-02": {
+      "price": 0.37849,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-03": {
+      "price": 0.313386,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-04": {
+      "price": 0.334676,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-05": {
+      "price": 0.334061,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-06": {
+      "price": 0.395957,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-07": {
+      "price": 0.35409,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10千伏",
+      "detailCount": 7
+    },
+    "2026-08": {
+      "price": 0.342477,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "deepValley": 0,
+      "voltageLevel": "1～10（20）千伏",
+      "detailCount": 9
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "siteId": "CN-JS-NJ-PROTOTYPE",
+  "name": "南京场地原型（未接入业主站点）",
+  "assetMaturity": "prototype",
+  "coordinateReferenceSystem": "EPSG:4326",
+  "units": "m",
+  "upAxis": "Z",
+  "layers": {
+    "province": { "source": "jiangsu-cities.geojson", "status": "reference" },
+    "satellite": { "source": "jiangsu-satellite.jpg", "status": "visual-reference" },
+    "campus": { "source": null, "status": "owner-bim-required" },
+    "pointCloud": { "source": null, "status": "owner-survey-required" },
+    "equipment": { "source": "rack-room/.../server_rack.glb", "status": "reference-asset" },
+    "simulation": { "source": null, "status": "solver-or-telemetry-required" }
+  },
+  "requiredForProduction": [
+    "owner IFC/RVT or photogrammetry GLB",
+    "E57/LAS/LAZ survey with CRS and accuracy report",
+    "authorized vendor equipment geometry and metadata",
+    "electrical and thermal solver outputs or telemetry",
+    "approved Chinese basemap and map review record"
+  ]
+}

@@ -1,0 +1,15 @@
+import {Droplets,MapPin,Network,ReceiptText,ShieldCheck,Thermometer} from 'lucide-react'
+import type {ChangeEvent} from 'react'
+import {usePortalStore} from '../usePortalStore'
+import type {Site} from '../portalModel'
+import './neo-workflow.css'
+
+export function NeoPlanningPanel(){
+  const s=usePortalStore(),site=s.sites.find(v=>v.id===s.focusedSite)??s.sites[0]
+  if(!site)return null
+  const update=(change:Partial<Site>)=>s.update({sites:s.sites.map(v=>v.id===site.id?{...v,...change}:v)})
+  const present=[site.waterM3d!==undefined&&site.waterM3d!==null,site.summerC!==undefined&&site.summerC!==null,site.networkGbps!==undefined&&site.networkGbps!==null,site.landReady!==undefined&&site.landReady!==null,Boolean(site.basis?.trim())].filter(Boolean).length
+  const numeric=(key:'waterM3d'|'summerC'|'networkGbps')=>(event:ChangeEvent<HTMLInputElement>)=>{const n=event.target.valueAsNumber;update({[key]:event.target.value===''?null:Number.isFinite(n)?n:null})}
+  const annualCost=s.sites.map(v=>({id:v.id,name:v.name,price:v.price,cost:v.price*s.demand*1000*8760}))
+  return <div className="neo-workflow-extension"><header><div><span>PLANNING EVIDENCE</span><h2>站点条件与电费边界</h2></div><small>以下候选数据为规划输入假设，需用场址资料核实</small></header><div className="neo-extension-grid"><section className="neo-extension-card"><div className="neo-extension-title"><MapPin size={17}/><h3>{site.name}</h3><em>{present} / 5 项资料已填</em></div><div className="neo-input-pairs"><label><span><Droplets size={13}/>水资源能力 / m³每天</span><input type="number" min={0} value={site.waterM3d??''} placeholder="待提供" onChange={numeric('waterM3d')}/></label><label><span><Thermometer size={13}/>夏季设计温度 / °C</span><input type="number" value={site.summerC??''} placeholder="待提供" onChange={numeric('summerC')}/></label><label><span><Network size={13}/>可用网络带宽 / Gbps</span><input type="number" min={0} value={site.networkGbps??''} placeholder="待提供" onChange={numeric('networkGbps')}/></label><label><span><ShieldCheck size={13}/>土地条件</span><select value={site.landReady===null||site.landReady===undefined?'':site.landReady?'yes':'no'} onChange={e=>update({landReady:e.target.value===''?null:e.target.value==='yes'})}><option value="">待核实</option><option value="yes">条件已核实</option><option value="no">条件未满足</option></select></label></div><label className="neo-evidence-note"><span>资料依据与政策约束</span><input value={site.basis??''} onChange={e=>update({basis:e.target.value})} placeholder="填写资料来源、日期或政策要求"/></label></section><section className="neo-extension-card"><div className="neo-extension-title"><ReceiptText size={17}/><h3>候选站电费边界</h3><em>满负荷假设</em></div><p>按当前设施电力需求与手动输入的电价，估算全年每小时持续满负荷时的电费。未纳入建设投入、负载变化、需量费用与制冷差异。</p><div className="neo-cost-comparison">{annualCost.map(row=><div key={row.id}><span>{row.name}<small>{row.price.toFixed(2)} 元/kWh</small></span><strong>{Math.round(row.cost/10000).toLocaleString('zh-CN')} <em>万元/年</em></strong></div>)}</div><button onClick={()=>s.update({focusedSite:s.sites.find(v=>v.id!==site.id)?.id??site.id})}>切换查看其他候选站</button></section></div></div>
+}

@@ -1,0 +1,43 @@
+{
+  "name": "compute-power-twin-prototype",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "assets:ifc": "node scripts/convert-ifc.mjs",
+    "dev": "vite --host 127.0.0.1",
+    "assets:delivery": "node scripts/prepare-delivery.mjs",
+    "build": "node scripts/prepare-delivery.mjs && tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "simulation:setup":"powershell -NoProfile -ExecutionPolicy Bypass -File scripts/setup-simulation.ps1",
+    "simulation:start":"powershell -NoProfile -ExecutionPolicy Bypass -File scripts/start-platform.ps1 -NoBrowser",
+    "simulation:test":".venv-sim/Scripts/python.exe -m unittest backend.tests.test_service -v"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.8",
+    "@react-three/fiber": "^9.8.0",
+    "@react-three/postprocessing": "^3.1.2",
+    "@types/d3-geo": "^3.1.1",
+    "3d-tiles-tools": "^0.5.4",
+    "d3-geo": "^3.1.1",
+    "lucide-react": "^1.47.0",
+    "maplibre-gl": "^6.13.0",
+    "nanoid": "^6.0.1",
+    "postprocessing": "^6.39.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "three": "^0.186.0",
+    "three-legacy": "npm:three@^0.142.0",
+    "web-ifc": "^0.0.78",
+    "xlsx": "^0.18.5",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/three": "^0.186.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0"
+  }
+}

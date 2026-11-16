@@ -1,0 +1,10 @@
+import {Globe2,MapPin,GitBranch,SlidersHorizontal,ChartNoAxesCombined,ShieldCheck,Boxes,PanelLeftOpen,PanelLeftClose} from 'lucide-react'
+import {usePortalStore} from '../usePortalStore'
+import {useDesignerStore} from '../useDesignerStore'
+import {useEngineeringStore} from '../useEngineeringStore'
+import {useFoundationStore} from '../foundationData'
+import {CENTERS,isCenterEnabled,type Center} from '../portalModel'
+const icons={assets:Globe2,planning:MapPin,engineering:GitBranch,simulation:SlidersHorizontal,operations:ChartNoAxesCombined,maintenance:ShieldCheck,models:Boxes}
+export function AppNav(){const expanded=usePortalStore(s=>s.navExpanded),center=usePortalStore(s=>s.center),mode=useDesignerStore(s=>s.twinMode),effective=center==='assets'||center==='simulation'?mode==='operate'?'simulation':'assets':center
+  return <nav className="app-nav" aria-label="主要功能"><div className="nav-stack" id="platform-center-menu">{(Object.keys(CENTERS) as Center[]).map(id=>{const Icon=icons[id];return <button key={id} className={`nav-item ${effective===id?'is-active':''}`} aria-label={CENTERS[id]} title={isCenterEnabled(id)?CENTERS[id]:`${CENTERS[id]} · 暂未开放`} disabled={!isCenterEnabled(id)} aria-current={effective===id?'page':undefined} onClick={()=>{useFoundationStore.getState().close();usePortalStore.getState().setCenter(id);if(id==='assets'){useEngineeringStore.getState().setVisible(false);useDesignerStore.getState().setTwinMode('browse');useDesignerStore.getState().setSceneScope('china')}if(id==='simulation'){useDesignerStore.getState().setTwinMode('operate');useEngineeringStore.getState().setVisible(true)}}}><Icon size={19}/><span className="nav-label">{CENTERS[id]}</span><span className="nav-tooltip">{CENTERS[id]}</span></button>})}</div><div className="nav-stack nav-stack-bottom"><button className="nav-collapse-toggle" aria-controls="platform-center-menu" aria-expanded={expanded} aria-label={expanded?'收起菜单':'展开菜单'} title={expanded?'收起菜单':'展开菜单'} onClick={()=>usePortalStore.getState().setNavExpanded(!expanded)}>{expanded?<PanelLeftClose size={18}/>:<PanelLeftOpen size={18}/>}</button></div></nav>
+}

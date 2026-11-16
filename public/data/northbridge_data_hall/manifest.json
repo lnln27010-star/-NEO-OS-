@@ -1,0 +1,174 @@
+{
+  "format": "massing.project",
+  "version": 2,
+  "extension": ".mass",
+  "exported_at": "2026-08-17T01:33:39.713727Z",
+  "project": {
+    "id": "0d57c18a-228d-4878-9003-76333a317a99",
+    "name": "Northbridge Data Hall"
+  },
+  "tables": {
+    "mod_as_built": 24,
+    "mod_budget": 22,
+    "mod_cost_code": 22,
+    "mod_document": 7,
+    "mod_drawing": 22,
+    "mod_drawing_set": 1,
+    "mod_estimate": 1,
+    "mod_lod_target": 5,
+    "mod_permit": 9,
+    "mod_procurement_package": 9,
+    "mod_project_phase": 8,
+    "mod_rfi": 3,
+    "mod_risk": 10,
+    "mod_schedule_activity": 11,
+    "mod_sov": 22,
+    "mod_space_program": 4,
+    "mod_submittal": 3,
+    "record_attachments": 6,
+    "scenarios": 1,
+    "project_members": 1,
+    "element": 1014
+  },
+  "has_frag": true,
+  "entries": [
+    {
+      "path": "README.txt",
+      "bytes": 1386
+    },
+    {
+      "path": "blobs/0d57c18a-228d-4878-9003-76333a317a99/A1.01_Overall_Floor_Plan_Level_1.svg",
+      "bytes": 19752
+    },
+    {
+      "path": "blobs/0d57c18a-228d-4878-9003-76333a317a99/A2.01_Building_Elevations.svg",
+      "bytes": 11883
+    },
+    {
+      "path": "blobs/0d57c18a-228d-4878-9003-76333a317a99/E2.01_Power_and_Lighting_Plan_Typical_Level.svg",
+      "bytes": 20426
+    },
+    {
+      "path": "blobs/0d57c18a-228d-4878-9003-76333a317a99/EXECUTIVE_REPORT.md",
+      "bytes": 8988
+    },
+    {
+      "path": "blobs/0d57c18a-228d-4878-9003-76333a317a99/G0.01_Cover_Sheet_and_Project_Data.svg",
+      "bytes": 13987
+    },
+    {
+      "path": "blobs/0d57c18a-228d-4878-9003-76333a317a99/S2.01_Framing_Plan_Typical_Level.svg",
+      "bytes": 25027
+    },
+    {
+      "path": "data/mod_as_built.json",
+      "bytes": 14891
+    },
+    {
+      "path": "data/mod_budget.json",
+      "bytes": 12867
+    },
+    {
+      "path": "data/mod_cost_code.json",
+      "bytes": 10982
+    },
+    {
+      "path": "data/mod_document.json",
+      "bytes": 4096
+    },
+    {
+      "path": "data/mod_drawing.json",
+      "bytes": 15290
+    },
+    {
+      "path": "data/mod_drawing_set.json",
+      "bytes": 627
+    },
+    {
+      "path": "data/mod_estimate.json",
+      "bytes": 747
+    },
+    {
+      "path": "data/mod_lod_target.json",
+      "bytes": 2867
+    },
+    {
+      "path": "data/mod_permit.json",
+      "bytes": 6754
+    },
+    {
+      "path": "data/mod_procurement_package.json",
+      "bytes": 6903
+    },
+    {
+      "path": "data/mod_project_phase.json",
+      "bytes": 5645
+    },
+    {
+      "path": "data/mod_rfi.json",
+      "bytes": 2193
+    },
+    {
+      "path": "data/mod_risk.json",
+      "bytes": 8088
+    },
+    {
+      "path": "data/mod_schedule_activity.json",
+      "bytes": 10325
+    },
+    {
+      "path": "data/mod_sov.json",
+      "bytes": 13597
+    },
+    {
+      "path": "data/mod_space_program.json",
+      "bytes": 2387
+    },
+    {
+      "path": "data/mod_submittal.json",
+      "bytes": 1720
+    },
+    {
+      "path": "data/project_members.json",
+      "bytes": 226
+    },
+    {
+      "path": "data/record_attachments.json",
+      "bytes": 2606
+    },
+    {
+      "path": "data/scenarios.json",
+      "bytes": 1003
+    },
+    {
+      "path": "geometry/model.frag",
+      "bytes": 550085
+    },
+    {
+      "path": "geometry/northbridge_data_hall.ifc",
+      "bytes": 3774209
+    },
+    {
+      "path": "index/props.json",
+      "bytes": 1131244
+    },
+    {
+      "path": "project.json",
+      "bytes": 138
+    }
+  ],
+  "excluded": {
+    "tables": [
+      "alembic_version",
+      "app_settings",
+      "audit_log",
+      "connections",
+      "users"
+    ],
+    "why": "machine- or account-specific: user accounts, the audit log, application settings and saved external connections belong to an installation, not to a project, and importing them would overwrite the destination's own."
+  },
+  "reads": [
+    "massing.project v2",
+    "aec.mmproj v1 (.mmproj)"
+  ]
+}

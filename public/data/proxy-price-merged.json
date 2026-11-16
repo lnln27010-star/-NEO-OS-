@@ -1,0 +1,2582 @@
+{
+  "宁夏回族自治区": {
+    "2025-09": {
+      "price": 0.4841,
+      "peak": 0.4606,
+      "normal": 0.2809,
+      "valley": 0.1435,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.4841,
+      "peak": 0.4275,
+      "normal": 0.2466,
+      "valley": 0.095,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4841,
+      "peak": 0.4523,
+      "normal": 0.2715,
+      "valley": 0.1275,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.4841,
+      "peak": 0.4517,
+      "normal": 0.2797,
+      "valley": 0.1335,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.4841,
+      "peak": 0.3107,
+      "normal": 0.3108,
+      "valley": 0.1645,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.4841,
+      "peak": 0.3148,
+      "normal": 0.3177,
+      "valley": 0.162,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.4841,
+      "peak": 0.2947,
+      "normal": 0.324,
+      "valley": 0.1683,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.4841,
+      "peak": 0.3344,
+      "normal": 0.2906,
+      "valley": 0.1787,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.4841,
+      "peak": 0.3409,
+      "normal": 0.2968,
+      "valley": 0.1852,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.4841,
+      "peak": 0.3404,
+      "normal": 0.2931,
+      "valley": 0.1847,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.4841,
+      "peak": 0.3498,
+      "normal": 0.304,
+      "valley": 0.1941,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.4841,
+      "peak": 0.3481,
+      "normal": 0.3196,
+      "valley": 0.1924,
+      "subRegions": 1
+    }
+  },
+  "内蒙古自治区": {
+    "2025-09": {
+      "price": 0.2773,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.2613,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.2795,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.2985,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.2485,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.1963,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.1949,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.1699,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.1783,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.2544,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.2854,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.2865,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "北京市": {
+    "2025-09": {
+      "price": 0.4011,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.3964,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.3977,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.3972,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3833,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3808,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.3887,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.384,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3987,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.3845,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3868,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3897,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "新疆维吾尔自治区": {
+    "2025-09": {
+      "price": 0,
+      "peak": 0.4223,
+      "normal": 0.2732,
+      "valley": 0.1555,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0,
+      "peak": 0.4219,
+      "normal": 0.2731,
+      "valley": 0.1599,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0,
+      "peak": 0.4193,
+      "normal": 0.2657,
+      "valley": 0.1296,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0,
+      "peak": 0.4052,
+      "normal": 0.269,
+      "valley": 0.1492,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0,
+      "peak": 0.2463,
+      "normal": 0.2349,
+      "valley": 0.2287,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0,
+      "peak": 0.2764,
+      "normal": 0.2877,
+      "valley": 0.2784,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0,
+      "peak": 0.5138,
+      "normal": 0.3219,
+      "valley": 0.13,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0,
+      "peak": 0.3585,
+      "normal": 0.2287,
+      "valley": 0.099,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0,
+      "peak": 0.3653,
+      "normal": 0.2376,
+      "valley": 0.11,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.1523,
+      "peak": 0.2332,
+      "normal": 0.1523,
+      "valley": 0.0714,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.1523,
+      "peak": 0.2035,
+      "normal": 0.1163,
+      "valley": 0.0291,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.1523,
+      "peak": 0.3652,
+      "normal": 0.2485,
+      "valley": 0.1317,
+      "subRegions": 1
+    }
+  },
+  "黑龙江省": {
+    "2025-09": {
+      "price": 0.3899,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.3955,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4003,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.4064,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3077,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.2992,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.3067,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3091,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3009,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.2965,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3076,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3071,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "浙江省": {
+    "2025-09": {
+      "price": 0.4309,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.4421,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4183,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.4428,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.4086,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3867,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.372,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3527,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3719,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.391,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.4213,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.4178,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "江苏省": {
+    "2025-09": {
+      "price": 0.424,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.4336,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4393,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.4525,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3937,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3102,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.3458,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3715,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3529,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.373,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3949,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3832,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "辽宁省": {
+    "2025-09": {
+      "price": 0.4401,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.4274,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4109,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.4419,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3328,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3312,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.1991,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.2882,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.2846,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.2841,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.318,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3165,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "广东省": {
+    "2025-09": {
+      "price": 0.503,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 5
+    },
+    "2025-10": {
+      "price": 0.491,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 5
+    },
+    "2025-11": {
+      "price": 0.4329,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 5
+    },
+    "2025-12": {
+      "price": 0.4563,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 5
+    },
+    "2026-01": {
+      "price": 0.3789,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 5
+    },
+    "2026-02": {
+      "price": 0.4128,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 5
+    },
+    "2026-03": {
+      "price": 0.4178,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 5
+    },
+    "2026-04": {
+      "price": 0.4043,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 5
+    },
+    "2026-05": {
+      "price": 0.4457,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 5
+    },
+    "2026-06": {
+      "price": 0.4708,
+      "peak": 0.7867,
+      "normal": 0.4708,
+      "valley": 0.1911,
+      "subRegions": 5
+    },
+    "2026-07": {
+      "price": 0.4962,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 5
+    },
+    "2026-08": {
+      "price": 0.465,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 5
+    }
+  },
+  "河南省": {
+    "2025-09": {
+      "price": 0.4051,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.4054,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.3774,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.3987,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3398,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3852,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.3932,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3529,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3122,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.3188,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3579,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.4514,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "山东省": {
+    "2025-09": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.2725,
+      "peak": 0.2725,
+      "normal": 0.2725,
+      "valley": 0.2725,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.2725,
+      "peak": 0.2725,
+      "normal": 0.2725,
+      "valley": 0.2725,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.2725,
+      "peak": 0.2725,
+      "normal": 0.2725,
+      "valley": 0.2725,
+      "subRegions": 1
+    }
+  },
+  "江西省": {
+    "2025-09": {
+      "price": 0.4537,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.4535,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4557,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.4412,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3628,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.4146,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.4102,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.4121,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.377,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.3827,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3656,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.4089,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "四川省": {
+    "2025-09": {
+      "price": 0.2378,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.2683,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.3788,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.4306,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.4228,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.4139,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.4207,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3889,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3352,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.207,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.2127,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.2604,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "上海市": {
+    "2025-09": {
+      "price": 0.456,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.4515,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.45,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.4398,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.4325,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.4303,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.4391,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.4092,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.426,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.4351,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.4502,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.4289,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "安徽省": {
+    "2025-09": {
+      "price": 0.4125,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.3893,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.3885,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.401,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3479,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3594,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.337,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3445,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3455,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.3218,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3031,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.314,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "陕西省": {
+    "2025-09": {
+      "price": 0.3404,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2025-10": {
+      "price": 0.3295,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2025-11": {
+      "price": 0.4349,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2025-12": {
+      "price": 0.4196,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-01": {
+      "price": 0.3813,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-02": {
+      "price": 0.3987,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-03": {
+      "price": 0.3376,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-04": {
+      "price": 0.3232,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-05": {
+      "price": 0.2876,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-06": {
+      "price": 0.2566,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-07": {
+      "price": 0.2598,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-08": {
+      "price": 0.3048,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    }
+  },
+  "甘肃省": {
+    "2025-09": {
+      "price": 0,
+      "peak": 0.2832,
+      "normal": 0.2688,
+      "valley": 0.2583,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0,
+      "peak": 0.3102,
+      "normal": 0.2813,
+      "valley": 0.2743,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0,
+      "peak": 0.3396,
+      "normal": 0.2841,
+      "valley": 0.2043,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0,
+      "peak": 0.3381,
+      "normal": 0.3019,
+      "valley": 0.1978,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0,
+      "peak": 0.3509,
+      "normal": 0.3349,
+      "valley": 0.117,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0,
+      "peak": 0.3809,
+      "normal": 0.343,
+      "valley": 0.1255,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0,
+      "peak": 0.3327,
+      "normal": 0.293,
+      "valley": 0.0864,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0,
+      "peak": 0.292,
+      "normal": 0.224,
+      "valley": 0.0942,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0,
+      "peak": 0.2293,
+      "normal": 0.1767,
+      "valley": 0.0825,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0,
+      "peak": 0.2094,
+      "normal": 0.1712,
+      "valley": 0.0727,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0,
+      "peak": 0.2362,
+      "normal": 0.1732,
+      "valley": 0.0806,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0,
+      "peak": 0.2622,
+      "normal": 0.2087,
+      "valley": 0.1194,
+      "subRegions": 1
+    }
+  },
+  "海南省": {
+    "2025-09": {
+      "price": 0.5662,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.5488,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.5676,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.6066,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.6232,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.4392,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.397,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.4147,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.4528,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.4766,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.4305,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.4294,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "福建省": {
+    "2025-09": {
+      "price": 0.4092,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.4084,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4087,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.415,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3868,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3795,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.3668,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3656,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3705,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.3686,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3723,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3761,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "吉林省": {
+    "2025-09": {
+      "price": 0.4128,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.424,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4265,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.4196,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3415,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3368,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.3406,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3416,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3319,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.3441,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.343,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3473,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "重庆市": {
+    "2025-09": {
+      "price": 0.4476,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.4032,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4373,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.4256,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.4319,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.4695,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.4517,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.4433,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.4635,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.4426,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.4797,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.4874,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "河北省": {
+    "2025-09": {
+      "price": 0.4201,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2025-10": {
+      "price": 0.4212,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2025-11": {
+      "price": 0.4205,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2025-12": {
+      "price": 0.4298,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-01": {
+      "price": 0.4011,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-02": {
+      "price": 0.4019,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-03": {
+      "price": 0.4035,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-04": {
+      "price": 0.4057,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-05": {
+      "price": 0.4135,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-06": {
+      "price": 0.4166,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-07": {
+      "price": 0.419,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    },
+    "2026-08": {
+      "price": 0.4099,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 2
+    }
+  },
+  "天津市": {
+    "2025-09": {
+      "price": 0.415,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.4296,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4254,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.3853,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3665,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3948,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.3939,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3946,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3888,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.3851,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3892,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3881,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "湖北省": {
+    "2025-09": {
+      "price": 0.4145,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.3972,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4262,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.387,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3845,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3452,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.373,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3789,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3601,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.3645,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3642,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3614,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "湖南省": {
+    "2025-09": {
+      "price": 0.4367,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.504,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.4073,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.4389,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.4394,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.4415,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.4375,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3859,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.375,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.334,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3475,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3803,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "青海省": {
+    "2025-09": {
+      "price": 0.2585,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.3172,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.3552,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.2842,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.259,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.2829,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.2842,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.224,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.2198,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.196,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.2191,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.2202,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "山西省": {
+    "2025-09": {
+      "price": 0.3407,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.3547,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.3889,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.3988,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.2959,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3054,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.2896,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.323,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.2733,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.288,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.2861,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3287,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "贵州省": {
+    "2025-09": {
+      "price": 0.3866,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.3877,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.389,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.389,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3735,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3927,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.3849,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3664,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3839,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.3973,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3886,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3799,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "云南省": {
+    "2025-09": {
+      "price": 0.2031,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.21,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.2807,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.2843,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.2439,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.2552,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.2883,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3003,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.2793,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.2485,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.2051,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.1601,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  },
+  "广西壮族自治区": {
+    "2025-09": {
+      "price": 0.3741,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-10": {
+      "price": 0.372,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-11": {
+      "price": 0.3988,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2025-12": {
+      "price": 0.3889,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-01": {
+      "price": 0.3602,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-02": {
+      "price": 0.3785,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-03": {
+      "price": 0.3134,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-04": {
+      "price": 0.3347,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-05": {
+      "price": 0.3341,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-06": {
+      "price": 0.396,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-07": {
+      "price": 0.3541,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    },
+    "2026-08": {
+      "price": 0.3425,
+      "peak": 0,
+      "normal": 0,
+      "valley": 0,
+      "subRegions": 1
+    }
+  }
+}

@@ -1,0 +1,109 @@
+.is-bim-workspace { --line:#343a3c; --panel:#202627; --text-3:#a0a9ae; background:#101516; }
+.is-bim-workspace .header-bar { background:#101516; height:52px; box-shadow:none; }
+.is-bim-workspace .brand-mark { border-radius:3px; box-shadow:none; background:#a8bc81; }
+.is-bim-workspace .brand-name { font-size:14px; letter-spacing:0; }
+.is-bim-workspace .app-nav { background:#161c1d; }
+.is-bim-workspace .command-bar { background:#181e1f; }
+.is-bim-workspace .workspace { grid-template-rows:40px minmax(0,1fr); }
+.is-bim-workspace .designer-grid { display:block; position:relative; }
+.is-bim-workspace .viewport-shell { position:absolute; inset:0; }
+.is-bim-workspace .demo-badge { color:#ccd8b7; background:#263025; border-color:#475341; }
+.bim-app-status { padding:0 12px; display:flex; align-items:center; justify-content:space-between; font-size:10px; color:#adb7ba; background:#151b1c; }
+.bim-workbench { width:100%; height:100%; position:relative; background:#c4c9c5; overflow:hidden; color:#e7ebea; }
+.bim-workbench canvas { display:block; width:100%; height:100%; }
+.bim-workbench button { cursor:pointer; transition:background .13s; font-size:12px; }
+.bim-workbench button:focus-visible,.bim-workbench select:focus-visible,.bim-workbench input:focus-visible { outline:2px solid #d8e8b6; outline-offset:3px; }
+.bim-title { position:absolute; left:24px; top:22px; padding:12px 15px; background:rgba(22,28,29,.94); border-radius:5px; pointer-events:none; }
+.bim-title strong { display:block; font-size:17px; font-weight:500; letter-spacing:.01em; }
+.bim-title span { display:flex; align-items:center; gap:6px; color:#b9c2c5; margin-top:6px; font-size:11px; }
+.bim-title i { display:block; width:4px; height:4px; border-radius:50%; background:#adc87d; }
+.bim-tools { position:absolute; left:24px; top:111px; display:flex; flex-direction:column; padding:5px; gap:5px; border-radius:5px; background:rgba(23,30,31,.94); }
+.bim-tools button { display:grid; place-items:center; width:34px; height:34px; background:transparent; color:#bec9cd; border:0; border-radius:3px; }
+.bim-tools button:hover,.bim-tools button[aria-pressed=true] { background:#414b45; color:#e0eed0; }
+.bim-config,.bim-tree { position:absolute; right:22px; top:22px; width:268px; border-radius:7px; background:rgba(25,31,32,.96); box-shadow:0 12px 28px rgba(0,0,0,.19); padding:15px; max-height:calc(100% - 118px); overflow:auto; scrollbar-width:thin; scrollbar-color:#5c6567 transparent; }
+.bim-config header,.bim-tree header { display:flex; align-items:center; justify-content:space-between; margin-bottom:13px; }
+.bim-config header strong,.bim-tree header strong { font-size:14px; font-weight:500; }
+.bim-config header button,.bim-tree header button,.bim-selection > button { border:0; background:transparent; color:#bac7c7; display:grid; place-items:center; padding:4px; }
+.bim-tabs { display:flex; gap:5px; margin-bottom:15px; border-bottom:1px solid #485052; padding-bottom:8px; }
+.bim-tabs button { background:transparent; color:#bec8cb; border:0; padding:6px 18px; border-radius:3px; }
+.bim-tabs button[aria-pressed=true] { color:#1c251b; background:#c9d5b8; }
+.bim-field { display:grid; gap:7px; color:#bdc9cc; font-size:11px; }
+.bim-field select { min-width:0; width:100%; height:32px; padding:0 7px; color:#e6eded; background:#20292b; border:1px solid #515c5e; border-radius:3px; font-size:12px; }
+.bim-layer-controls { display:grid; gap:11px; padding:15px 0; margin:0 0 12px; border-bottom:1px solid #475052; }
+.bim-layer-controls label { display:flex; align-items:center; gap:9px; font-size:12px; color:#d1dbda; cursor:pointer; }
+.bim-layer-controls input { margin:0; accent-color:#b3ca8c; width:14px; height:14px; }
+.bim-model-facts { display:grid; grid-template-columns:1fr auto; row-gap:10px; font-size:11px; color:#afbdc1; margin-bottom:15px; }
+.bim-model-facts strong { color:#e3e9e6; font-weight:500; font-variant-numeric:tabular-nums; }
+.bim-import { display:flex; justify-content:center; align-items:center; gap:7px; width:100%; background:#3c4940; border:1px solid #64725c; color:#edf3e8; border-radius:3px; height:32px; margin-top:8px; }
+.bim-import:hover { background:#526449; }
+.bim-provenance { margin:12px 0 0; font-size:11px; line-height:1.6; color:#b6c0c0; }
+.bim-file-input { display:none; }
+.bim-cameras { display:flex; align-items:center; gap:4px; position:absolute; bottom:36px; left:50%; transform:translateX(-50%); padding:6px; border-radius:5px; background:rgba(26,32,33,.97); white-space:nowrap; }
+.bim-cameras > svg { margin:0 8px; color:#c4d0d2; }
+.bim-cameras button { border:0; border-radius:3px; padding:9px 14px; color:#cad4d4; background:transparent; }
+.bim-cameras button:hover { background:#3f4b47; }
+.bim-cameras button[aria-pressed=true] { background:#c5d2b0; color:#1d291d; }
+.bim-caption { position:absolute; bottom:8px; left:24px; right:24px; display:flex; gap:7px; align-items:center; color:#2d3838; font-size:11px; text-shadow:0 1px 3px #e0e3da; pointer-events:none; }
+.bim-caption span:last-child { margin-left:auto; }
+.bim-tree { left:76px; right:auto; top:111px; width:244px; max-height:calc(100% - 210px); }
+.bim-type-row { display:flex; justify-content:space-between; align-items:center; gap:10px; font-size:11px; color:#c1cbcd; padding:7px 0; border-bottom:1px solid #3e484a; }
+.bim-selection { position:absolute; left:24px; bottom:103px; padding:14px; border-radius:5px; background:rgba(24,31,32,.96); min-width:252px; }
+.bim-selection > button { position:absolute; right:7px; top:7px; }
+.bim-selection > strong,.bim-selection > span,.bim-selection code,.bim-selection small { display:block; }
+.bim-selection strong { font-weight:500; font-size:13px; padding-right:18px; }
+.bim-selection strong span { color:#b3c299; font-size:11px; }
+.bim-selection > span { color:#bdc9cc; font-size:11px; margin:5px 0; }
+.bim-selection code { color:#d3decc; font-size:11px; margin:6px 0; }
+.bim-selection small { color:#acb8b9; font-size:10px; }
+.bim-loading,.bim-error { position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); padding:18px 24px; border-radius:5px; background:#1b2425; color:#dfe9e6; font-size:13px; }
+.bim-error { max-width:400px; display:grid; gap:12px; }
+.bim-error button { padding:8px; background:#56684b; color:white; border:0; border-radius:3px; }
+@media(max-width:1000px) { .bim-config { width:232px; right:12px; top:14px; padding:12px; } .bim-title { left:14px; top:14px; } .bim-title strong { font-size:15px; } .bim-tools { left:14px; } .bim-provenance { font-size:10px; } .bim-cameras button { padding:9px; font-size:11px; } }
+@media(max-width:760px) { .bim-config { width:215px; } .bim-title { max-width:calc(100% - 250px); } .bim-title span { flex-wrap:wrap; line-height:1.5; } .bim-title strong { font-size:12px; } .bim-cameras { left:12px; transform:none; right:12px; justify-content:center; } .bim-cameras > svg { display:none; } .bim-caption span:first-of-type { max-width:200px; } }
+
+.ops-command-help { margin-left:10px; color:#b2bfbe; font-size:11px; white-space:nowrap; }
+.is-bim-workspace .tool-button.wide { font-size:11px; white-space:nowrap; }
+.bim-entry-actions { border-top:1px solid #46504c; margin-top:13px; padding-top:4px; }
+.bim-entry-actions p { color:#bec9bf; font-size:11px; line-height:1.65; margin-bottom:0; }
+.ops-panel { position:absolute; right:18px; top:18px; bottom:88px; width:304px; max-height:840px; padding:14px; background:rgba(23,31,33,.97); border-radius:7px; color:#e2e9e8; overflow:auto; scrollbar-width:thin; scrollbar-color:#64716b #232c2e; box-shadow:0 12px 25px #0002; }
+.ops-panel header { display:flex; align-items:center; justify-content:space-between; gap:8px; position:sticky; top:-14px; z-index:2; padding:10px 0; margin-top:-10px; background:#171f21; }
+.ops-panel header strong { font-size:15px; font-weight:550; }
+.ops-panel button { border:1px solid #52615a; border-radius:3px; color:#e2ebdf; background:#303f37; padding:7px 8px; display:inline-flex; align-items:center; justify-content:center; gap:5px; }
+.ops-panel button:hover { background:#455744; }
+.ops-panel header button { font-size:11px; border:0; background:transparent; color:#ccd7cf; padding:4px 0; }
+.ops-intro,.ops-timing-note,.ops-disclaimer { font-size:11px; line-height:1.55; color:#b9c6c5; margin:10px 0 12px; }
+.ops-panel fieldset { margin:0; padding:0; border:0; min-width:0; }
+.ops-panel label { display:grid; gap:6px; font-size:11px; color:#d0dbd9; margin:10px 0; }
+.ops-panel select { width:100%; min-width:0; height:31px; color:#e5edeb; background:#1e2b2c; border:1px solid #56625d; border-radius:3px; padding:0 6px; font-size:11px; }
+.ops-panel .ops-load-label { grid-template-columns:1fr auto; }
+.ops-load-label input { grid-column:1/-1; width:100%; margin:0; accent-color:#c3d6a7; }
+.ops-run-actions { display:grid; grid-template-columns:1fr 1fr; gap:7px; margin-top:12px; }
+.ops-run-actions .ops-primary { background:#c5d5ae; color:#202d20; font-weight:550; }
+.ops-playback { display:flex; align-items:center; justify-content:space-between; margin:12px 0 6px; font-size:11px; }
+.ops-playback strong { font-variant-numeric:tabular-nums; color:#d5e3c3; }
+.ops-timeline { display:block; width:100%; margin:0; accent-color:#bed0a6; }
+.ops-timing-note { margin:7px 0 11px; }
+.ops-layer-tabs { display:flex; gap:5px; }
+.ops-layer-tabs button { flex:1; background:transparent; border-color:#53615c; font-size:11px; }
+.ops-layer-tabs button[aria-pressed=true] { color:#263427; background:#c1d3ac; }
+.ops-totals { display:grid; grid-template-columns:1fr 1fr; gap:10px 12px; margin:14px 0; padding:13px 0; border-block:1px solid #465451; }
+.ops-totals div { min-width:0; }.ops-totals dt { color:#b5c3c1; font-size:11px; }.ops-totals dd { margin:5px 0 0; color:#e5ece4; font-size:16px; font-variant-numeric:tabular-nums; }
+.ops-device { font-size:11px; }.ops-device-title { display:flex; align-items:center; justify-content:space-between; margin-top:15px; }
+.ops-device-title strong { font-size:14px; color:#ead997; }.ops-device-title button { font-size:11px; padding:4px 7px; }
+.ops-device dl { display:grid; grid-template-columns:auto 1fr; gap:9px; }.ops-device dt { color:#b7c3c2; }.ops-device dd { margin:0; text-align:right; color:#e0e9e4; font-variant-numeric:tabular-nums; }
+.ops-disclaimer { border-top:1px solid #45514e; padding-top:10px; margin-bottom:0; overflow-wrap:anywhere; }
+.ops-unavailable { color:#f1c797; font-size:12px; line-height:1.5; }
+.ops-alerts { position:absolute; left:24px; bottom:102px; width:322px; background:rgba(22,30,32,.97); border-radius:5px; padding:12px; color:#e2e9e6; }
+.ops-alerts header { display:flex; align-items:center; justify-content:space-between; gap:7px; font-size:11px; }
+.ops-alerts header strong { display:flex; gap:7px; align-items:center; font-size:12px; }.ops-alerts header span { color:#b1c2bf; }
+.ops-alert-scroll { max-height:160px; overflow:auto; scrollbar-width:thin; margin-top:10px; }
+.ops-alert-scroll button { width:100%; display:grid; grid-template-columns:52px 1fr 14px; gap:6px; text-align:left; padding:9px 0; border:0; border-bottom:1px solid #42504e; background:transparent; color:#e2c7ab; font-size:11px; }
+.ops-alert-scroll button:hover { background:#3a4b44; }.ops-alert-scroll button span:nth-child(2) { color:#c6d0cc; }
+.ops-alert-scroll button em { display:block; font-size:10px; font-style:normal; margin-top:3px; color:#efc386; }
+.ops-alert-scroll button[data-severity=critical] em { color:#ffa38d; }
+.ops-alerts p,.ops-alerts small { color:#bcc9c8; font-size:11px; line-height:1.6; margin-bottom:0; }.ops-alerts small { display:block; margin-top:8px; }
+.ops-legend { position:absolute; left:24px; bottom:55px; display:flex; flex-wrap:wrap; gap:8px 12px; align-items:center; background:#1a2526ed; border-radius:4px; padding:8px 10px; font-size:11px; color:#e0e8e2; max-width:420px; }
+.ops-legend span { display:flex; gap:5px; align-items:center; }.ops-legend i { display:block; width:8px; height:8px; border-radius:2px; }.ops-legend span:last-child { color:#b9c9c5; }
+.is-operating .bim-cameras { left:auto; right:340px; bottom:38px; transform:none; }.is-operating .bim-title { max-width:calc(100% - 360px); }
+@media(max-width:1050px) { .ops-command-help { display:none; }.ops-panel { width:270px; right:12px; padding:12px; }.ops-alerts { width:255px; left:14px; }.ops-alert-scroll { max-height:128px; }.ops-legend { max-width:255px; left:14px; bottom:50px; }.is-operating .bim-cameras { right:292px; bottom:12px; }.is-operating .bim-title { max-width:calc(100% - 305px); }.is-operating .bim-caption { display:none; } }
+@media(max-width:760px) { .ops-panel { width:252px; top:12px; bottom:55px; }.ops-alerts { width:220px; bottom:116px; padding:10px; }.ops-alert-scroll { max-height:90px; }.ops-legend { max-width:220px; bottom:61px; font-size:10px; }.is-operating .bim-cameras { left:12px; right:278px; bottom:12px; }.ops-panel header strong { font-size:13px; }.ops-panel header button { font-size:10px; } }
