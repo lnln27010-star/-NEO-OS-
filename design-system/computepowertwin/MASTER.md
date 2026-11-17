@@ -1,5 +1,7 @@
 # Design System Master File
 
+> 历史设计参考，不是当前运行界面的样式规范。多人开发请以根目录 `AGENTS.md`、`docs/团队与智能体开发规范.md` 和 `src/styles.css` 中实际主题变量为准；本文件与现有实现冲突时不照搬。
+
 > **LOGIC:** When building a specific page, first check `design-system/pages/[page-name].md`.
 > If that file exists, its rules **override** this Master file.
 > If not, strictly follow the rules below.
